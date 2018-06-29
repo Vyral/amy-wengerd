@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 9 Things That Can Sabotage Your Home Sale
-date: 2018-06-19 18:03:29
+date: 2018-06-19 18:03:00
 tags:
 excerpt: >-
   There are many things which can hurt the sale of your home. Today I have a
   list of nine silly things that can actually sabotage your home sale.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Amy+Wengerd/Canton-Akron+Real+Estate+Agent-+9+Things+That+Can+Sabotage+Your+Home+Sale.mp4
 pullquote: It is the little things that make the biggest differences for homeowners.
 enclosure_type: video/mp4
 enclosure_time:
