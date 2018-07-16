@@ -22,7 +22,7 @@ Are you interested in buying a house but aren’t sure you can afford it? Here a
 
 **1. There are creative mortgage terms in your loan.** If the conditions of your financing look like a trail mix of mortgages and involve terms like “interest only,” “balloon payment,” “second mortgage,” or “adjustable rate,” that’s a significant indicator that you can’t afford the home you’re looking to buy.
 
-**2. You’re relying on down payment assistance programs.** These can be helpful if used properly. However, if you’re not prepared for the financial aspects of purchasing and owning a home, moving into one before you’re ready or moving into one you can’t afford without the assistance will do more harm than good.
+**2. You’re relying on down payment assistance programs.** These can be helpful if used properly. However, if you’re not prepared for the financial aspects of purchasing and owning a home, moving into one before you’re ready, or moving into one you can’t afford without the assistance, will do more harm than good.
 
 {% include pullquote.html %}
 
