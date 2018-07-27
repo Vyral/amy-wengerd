@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What if Your Home Sells and You Have Nowhere to Go?
-date:
+date: 2018-07-27 19:58:12
 tags:
 excerpt: >-
   If your home sells too quickly, we have a few solutions to help you deal with
@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/wengerd-youtube-2.jpg
 youtube_code: dp9Llm2pCw0
 ---
 
@@ -21,7 +21,7 @@ youtube_code: dp9Llm2pCw0
 
 If you are hesitant to put your home on the market because you’re afraid it will sell before you have found a new home to move into, you’re not alone.
 
-We’ve been in a seller’s market for several years, so this is a common issue. Oftentimes, we list homes that are sold the very same day. This is great news for our seller clients because it means they are getting top dollar. However, it can also be stressful because they may not have anywhere to go. &nbsp;
+We’ve been in a seller’s market for several years, so this is a common issue. Oftentimes, we list homes that are sold the very same day. This is great news for our seller clients because it means they are getting top dollar. However, it can also be stressful because they may not have anywhere to go.  
 
 If your home does sell too quickly, there are four solutions that can help you.
 
