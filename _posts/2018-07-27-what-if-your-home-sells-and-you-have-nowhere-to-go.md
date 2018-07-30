@@ -21,7 +21,7 @@ youtube_code: dp9Llm2pCw0
 
 If you are hesitant to put your home on the market because you’re afraid it will sell before you have found a new home to move into, you’re not alone.
 
-We’ve been in a seller’s market for several years, so this is a common issue. Oftentimes, we list homes that are sold the very same day. This is great news for our seller clients because it means they are getting top dollar. However, it can also be stressful because they may not have anywhere to go.  
+We’ve been in a seller’s market for several years, so this is a common issue. Oftentimes, we list homes that are sold the very same day. This is great news for our seller clients because it means they are getting top dollar. However, it can also be stressful because they may not have anywhere to go. &nbsp;
 
 If your home does sell too quickly, there are four solutions that can help you.
 
@@ -31,7 +31,7 @@ There are many available properties out there that are vacant, so **you can also
 
 {% include pullquote.html %}
 
-If you only need a few weeks to find and close on a new home, **you can stay in a hotel and store your things in a storage unit.** We have discounts for short-term hotel stays and short-term storage use that all of our sellers can take advantage of. We have negotiated special terms with local hotels that can accomodate our sellers’ needs, plus additional discounts for storage units and moving companies.
+If you only need a few weeks to find and close on a new home, **you can stay in a hotel and store your things in a storage unit.** We have discounts for short-term hotel stays and short-term storage use that all of our sellers can take advantage of. We have negotiated special terms with local hotels that can accommodate our sellers’ needs, plus additional discounts for storage units and moving companies.
 
 Lastly, **you can stay in a rental property.** We have a property manager in our office who manages hundreds of homes for rent at any given time. Some of these homes are available for a short-term rent, which gives our sellers time to find the perfect home to buy without feeling pressured.
 
