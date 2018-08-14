@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Home Improvement Projects to Add Variety to Your Life
-date: 2018-08-14 13:25:00
+date: 2018-08-14 18:25:00
 tags:
   - Real Estate
 excerpt: >-
