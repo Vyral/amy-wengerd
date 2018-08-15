@@ -19,15 +19,15 @@ youtube_code: b-wFExlt2a4
 
 {% include youtube.html %}
 
-As Realtors, we’re always looking for people who want to buy and sell real estate. But what if you love your house and you don’t want don’t want to move? Well, we want to help you with that, too. Here are five fun home improvement tips that you can use at home.
+As Realtors, we’re always looking for people who want to buy and sell real estate. But what if you love your house and you don’t want to move? Well, we want to help you with that, too. Here are five fun home improvement tips that you can use at home.
 
-**1. Paint your home.** I know it sounds simple, but it’s so it’s such a great improvement. Painting is inexpensive and you have the option of doing it yourself or hiring someone else to do it. With this simple act, you can make it feel as though you live in a brand-new house.<br> 
+**1. Paint your home.** I know it sounds simple, but it’s such a great improvement. Painting is inexpensive and you have the option of doing it yourself or hiring someone else to do it. With this simple act, you can make it feel as though you live in a brand-new house.<br>&nbsp;
 
-**2. Add new lighting and plumbing fixtures.** There are many great finds in your local hardware store and boutiques. Add a fun chandelier over your bathtub or switch out a kitchen plumbing fixture for something fun. You’ll love how much of a difference those will make for a fairly low cost.<br> 
+**2. Add new lighting and plumbing fixtures.** There are many great finds in your local hardware store and boutiques. Add a fun chandelier over your bathtub or switch out a kitchen plumbing fixture for something fun. You’ll love how much of a difference those will make for a fairly low cost.<br>&nbsp;
 
-**3. Add new landscaping.** This will help any house look fresh and new. If your plants have been in your yard for a long time, it might be time to pull them out and replace them with something new, boosting your curb appeal.<br> 
+**3. Add new landscaping.** This will help any house look fresh and new. If your plants have been in your yard for a long time, it might be time to pull them out and replace them with something new, boosting your curb appeal.<br>&nbsp;
 
-**4. Add a deck or patio.** Since it’s summer here, you might want to spend a lot of time outside. By adding a deck or patio, you can make that easy, fun, and relaxing. Add a water feature like a fountain, put in a fire pit, and/or add some new lighting to make nighttime engagements more fun. It will also make entertaining guests more enjoyable.<br> 
+**4. Add a deck or patio.** Since it’s summer here, you might want to spend a lot of time outside. By adding a deck or patio, you can make that easy, fun, and relaxing. Add a water feature like a fountain, put in a fire pit, and/or add some new lighting to make nighttime engagements more fun. It will also make entertaining guests more enjoyable.<br>&nbsp;
 
 **5. Spruce up your basement.** When we’re not outside, as in the cold months, we tend to spend a lot of time in the basement. Basements also tend to serve as fun areas to entertain, to set up a home gym, to install a home theater, or a wine room. A finished basement holds endless opportunity.
 
