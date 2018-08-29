@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Buyer Pet Peeves You Should Avoid
-date:
+date: 2018-08-29 14:55:18
 tags:
   - Home Seller Tips
   - Real Estate
@@ -38,5 +38,3 @@ I’ve spent some time in the past talking to you about fun things that you can 
 **6. Outdated bathrooms.** This is unappealing to 25% of buyers, but there are some quick fixes you can make. Repainting, fresh new lighting, new plumbing fixtures, and fresh soap on the counter can make the space feel new without the need to remodel.
 
 If you have any more questions for us or want any more tips about how to prepare your home for sale, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
