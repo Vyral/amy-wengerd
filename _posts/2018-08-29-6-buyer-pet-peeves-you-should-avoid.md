@@ -23,7 +23,7 @@ youtube_code: 9qbMcW5HR8w
 
 I’ve spent some time in the past talking to you about fun things that you can do with your home if you don’t want to sell, but what if you do want to list it? The first thing you should do is call us so we can guide you through every step of the way. There are also some things you can avoid to make sure you get top dollar for your home whenever you do sell. **Here are six buyer pet peeves you need to steer clear of:**
 
-**1. Damp patches or stains on the walls or ceilings.** 75% of buyers are put off by this. Go through the house, look up, and make sure there are no indications of those. If you do have them, find out what’s causing them and get it fixed.
+**1. Damp patches or stains on the walls or ceilings.** 75% of buyers are put off by this. Go through the house, look up, and make sure there are no indications of these ossies. If you do have them, find out what’s causing them and get it fixed.
 
 **2. Unpleasant odors.** 56% of buyers are turned off by various odors. They can come from pets, dampness, or even teenagers.
 
