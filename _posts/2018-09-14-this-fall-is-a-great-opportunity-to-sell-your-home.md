@@ -24,7 +24,7 @@ youtube_code: dtYmWhVAgeQ
 
 Here are the top three reasons this fall is a great opportunity to sell your home.
 
-**First, &nbsp;buyers are more serious**. Many buyers who have children want to locate and move into their new home before school starts. Although that time has already passed, not every family was able to find the right home. There are still many out there who need a home to buy. Not only that, but some buyers who don’t have children specifically wait for this time of year to begin their home search. There are fewer buyers out there and less competition, which can be very appealing to those who don’t have a strict deadline. Don’t forget—even though we’re in Ohio, we still have a couple months of warm weather left.
+**First, buyers are more serious**. Many buyers who have children want to locate and move into their new home before school starts. Although that time has already passed, not every family was able to find the right home. There are still many out there who need a home to buy. Not only that, but some buyers who don’t have children specifically wait for this time of year to begin their home search. There are fewer buyers out there and less competition, which can be very appealing to those who don’t have a strict deadline. Don’t forget—even though we’re in Ohio, we still have a couple months of warm weather left.
 
 **Second, there’s less competition.** Now that we’ve gotten through the typically busy seller months, there are fewer homes for buyers to choose from, which will make your home more appealing and help you earn top dollar.
 
