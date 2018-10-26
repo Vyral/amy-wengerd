@@ -1,8 +1,10 @@
 ---
 layout: post
 title: How Increased Interest Rates Will Affect Homebuyers
-date: 2018-10-26 14:37:09
+date: 2018-10-26 14:37:00
 tags:
+  - Home Buyer Tips
+  - Real Estate
 excerpt: >-
   For anyone who is looking to buy a home, the best chance to do so could be
   now.
@@ -27,5 +29,3 @@ This time last year, in the 4th quarter of 2017, the principal and interest paym
 I’ll say this: If you’re considering purchasing a home in the near future, we need to talk right away to help you find the most home for your money. We’ll provide you with our exclusive home shopper-savings information, **which can save you thousands when you buy a home.** And, we can still save you money even after you buy.
 
 We’d love to show you how our system works. For a free, private appointment with one of our buyer specialists, send me an email at [Amy@SoldByWengerd.com](Amy@SoldByWengerd.com). We can also provide you with a list of homes that haven’t even hit the market yet, or a consultation with one of our lenders who can answer payment questions, compare loan programs, and give you the best option for your situation. We look forward to hearing from you.
-
-&nbsp;
