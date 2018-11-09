@@ -20,7 +20,7 @@ youtube_code: 6gNZrKvwVmY
 
 {% include youtube.html %}
 
-I’m often asked by homeowners whether they should sell their home in the fall or wait until a later time. I’ve gone over the reasons why fall is a great choice for sellers in this video, and **today I’ll be giving you five tips on how to sell your home successfully this season:**
+I’m often asked by homeowners whether they should sell their home in the fall or wait until a later time. I’ve gone over the reasons why fall is a great choice for sellers [in this video](https://soldbyamyblog.com/this-fall-is-a-great-opportunity-to-sell-your-home.html), and **today I’ll be giving you five tips on how to sell your home successfully this season:**
 
 **1. Take advantage of our current market.** We’re still in an extremely strong seller’s market. Currently, Stark and Summit Counties have 210 pending home sales. 31% of those homes went pending in 14 days or less and 52% were pending in 30 days or less.
 
