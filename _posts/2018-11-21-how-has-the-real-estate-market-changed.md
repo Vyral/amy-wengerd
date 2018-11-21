@@ -21,7 +21,7 @@ youtube_code: a7uS4AaiDv4
 
 {% include youtube.html %}
 
-I was recently honored to be a guest on 1480 WHBC radio’s “Spotlight on Star County” to talk a little bit about how the real estate market has changed since I’ve been in business, what the current market looks like, and much more. Here’s an outline of our great discussion, with timestamps so you can skip around to the part(s) that interest you most:
+I was recently honored to be a guest on 1480 WHBC Radio’s “Spotlight on Star County” to talk a little bit about how the real estate market has changed since I’ve been in business, what the current market looks like, and much more. Here’s an outline of our great discussion, with timestamps so you can skip around to the part(s) that interest you most:
 
 0:30- What the market was like when I started out in the business over 20 years ago.
 
