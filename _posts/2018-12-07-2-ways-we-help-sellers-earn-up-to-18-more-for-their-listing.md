@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2 Ways We Help Sellers Earn up to 18% More For Their Listing
-date: 2018-12-07 16:08:23
+title: 2 Ways We Help Sellers Earn Up to 18% More for Their Listing
+date: 2018-12-07 16:08:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -33,5 +33,3 @@ Today we’d like to share the two tips our team provides sellers to help them e
 **2. Order a pre-listing inspection.** When you partner with our team, this is something we provide to you at no charge. Essentially, we hire a local inspector to visit your property and check for any structural, mechanical, or safety issues that a buyer might otherwise notice later on in the process. Finding and eliminating these issues before you begin receiving offers will ensure that you remain in control of the deal throughout the transaction. Having a pre-listing inspection could potentially save you thousands.
 
 <br>If you have any other questions or would like more information, feel free to give us a call, send us an email, or visit [www.amysguarantee.com](www.amysguarantee.com). We look forward to hearing from you soon.
-
-&nbsp;
