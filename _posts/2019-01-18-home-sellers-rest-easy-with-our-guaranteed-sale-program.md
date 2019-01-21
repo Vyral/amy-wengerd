@@ -41,6 +41,6 @@ How does it work? **There are four steps involved.**
 3. We agree on a guaranteed sale price.
 4. We list your home using our nationally recognized marketing program.
 
-**On average, we sell a home every 24 hours, so in most cases, you won’t even need this program.** However, if for any reason we can’t sell your home, we’ll buy it from you for the agreed upon price.
+**On average, we sell a home every 24 hours, so in most cases, you won’t even need this program.** However, if for any reason we can’t sell your home, we’ll buy it from you for the agreed-upon price.
 
 If you’d like to learn more about how this program works or you’re thinking of selling your home, don’t hesitate to reach out to us. Call us today, and rest easy tonight.
