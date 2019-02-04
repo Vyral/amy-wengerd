@@ -41,4 +41,4 @@ This is just another way we help Northeast Ohio home sellers and provide them wi
 
 On average, we sell a home every 24 hours just by using our proven, nationally recognized marketing program, so either way, we have your home sale covered.
 
-If you have any questions how this program works or you’re thinking of selling your home soon, don’t hesitate to reach out to us. We’d love to help you.
+If you have any questions about how this program works or you’re thinking of selling your home soon, don’t hesitate to reach out to us. We’d love to help you.
