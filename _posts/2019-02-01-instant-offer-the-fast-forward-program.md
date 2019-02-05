@@ -1,14 +1,14 @@
 ---
 layout: post
-title: How Our Fast Forward Program Works
-date: 2019-02-01 17:45:35
+title: 'Instant Offer: The Fast Forward Program'
+date: 2019-02-01 17:45:00
 tags:
   - Real Estate
 excerpt: >-
   With our Fast forward Program, we provide home sellers with an offer to
   purchase their home in 72 hours.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Amy+Wengerd/Canton-Akron+Real+Estate+Agent-+Explaining+Our+Fast+Forward+Program.mp4
+  https://s3.amazonaws.com/vyralmarketing/Amy+Wengerd/Canton-Akron+Real+Estate+Agent-+Explaining+Our+Fast+Forward+Program+(1).mp4
 pullquote: >-
   This is just another way we help Northeast Ohio home sellers and provide them
   with as many options as possible to get their home sold.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: aurC0ok7bpc
+youtube_code: C4xY1nAX0jg
 ---
 
 {% include youtube.html %}
@@ -37,7 +37,7 @@ It’s because of these types of situations that we created the Fast Forward Pro
 
 **3. We provide you with an offer to purchase your home within 72 hours.**
 
-This is just another way we help Northeast Ohio home sellers and provide them with as many options as possible to get their home sold. &nbsp;
+This is just another way we help Northeast Ohio home sellers and provide them with as many options as possible to get their home sold.  
 
 On average, we sell a home every 24 hours just by using our proven, nationally recognized marketing program, so either way, we have your home sale covered.
 
