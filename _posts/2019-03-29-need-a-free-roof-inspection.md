@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Need a Free Roof Inspection?
-date: 2019-03-29 14:59:07
+date: 2019-03-29 14:59:00
 tags:
   - Real Estate
-excerpt: How to get a free roof inspection
+excerpt: How to get a free roof inspection.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Amy+Wengerd/Canton-Akron+Real+Estate+Agent-+Getting+Your+Roof+Checked+for+Free.mp4
 pullquote:
