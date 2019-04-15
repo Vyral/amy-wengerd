@@ -25,9 +25,9 @@ The current spring market is already shaping up to be quite lively, so if you’
 
 With inventory at just three months’ worth of homes in both Stark and Summit County and rates currently at an incredible 4.25% for 30-year fixed mortgages, it’s no wonder why buyers are coming out in droves. As a seller, this means you’ve got a fantastic window of opportunity before you. High demand equates to more money in your pocket, after all.&nbsp;
 
-So if you’re considering a sale, why not let our team help maximize your success? There are three different ways we can help you sell.&nbsp;
+So if you’re considering a sale, why not let our team help maximize your success? There are three different ways we can help you sell:
 
-**1\. Our traditional sale.** This method is the one we used most. It implements our award-winning, nationally recognized marketing plan, and has been specifically designed to help you sell quickly and for top dollar.&nbsp;
+**1\. Our traditional sale.** This method is the one we use most. It implements our award-winning, nationally recognized marketing plan, and has been specifically designed to help you sell quickly and for top dollar.&nbsp;
 
 {% include pullquote.html %}
 
