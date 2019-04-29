@@ -32,4 +32,4 @@ This is the time of year that homeowners begin asking me questions about selling
 
 <br>**3\. Turning down showing requests.** Requests to view your home may not always come at the most convenient time, but the more buyers that we can expose your home to early on, the better the chances we have of presenting you with a great offer early on.
 
-If you’re thinking of selling your home, reach out to us. Let’s set up a private tour of your home where we can create a home selling strategically tailored specifically to you.
+If you’re thinking of selling your home, reach out to us. Let’s set up a private tour of your home where we can create a home selling strategy tailored specifically to you.
