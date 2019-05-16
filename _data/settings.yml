@@ -66,9 +66,11 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: http://www.zillow.com/profile/Amy-Wengerd/
+  google_reviews_url: https://www.google.com/search?q=amy+wengerd+group&rlz=1C1AZAA_enUS742US743&oq=amy+wengerd+group&aqs=chrome..69i57j69i60j69i61j0.2823j0j4&sourceid=chrome&ie=UTF-8#lrd=0x8836d12b4522721d:0xe5142c0ab6c198ac,3
   trulia_url: 
   yelp_url: 
   podcast_url: https://itunes.apple.com/us/podcast/real-estate-podcast-with-amy-wengerd/id1406593608?mt=2
+  
 
 podcast:
   title: 'Real Estate Podcast with Amy Wengerd'
