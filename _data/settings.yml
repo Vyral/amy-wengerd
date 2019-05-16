@@ -11,12 +11,12 @@ client:
   title:
   license_number:
   about_markdown: |
-    It's quite simple. You deserve the Unexpected Extras and unparalleled service my team provides. Whether buying or selling, I will ensure that not only your needs are met but that your expectations are blown away. My team employs a high tech yet hands on approach with each and every one of our clients. As a valued client, you will become part of my real estate family and experience the difference from the very first meeting. For our sellers, we employ a state of the art, creative marketing plan to ensure our homeowners get the most money possible from their home sale. Not only that, but that the process is enjoyable along the way!
+    It's quite simple. You deserve the unexpected extras and unparalleled service my team provides. Whether buying or selling, I will ensure that not only your needs are met but that your expectations are blown away. My team employs a high tech yet hands on approach with each and every one of our clients. As a valued client, you will become part of my real estate family and experience the difference from the very first meeting. For our sellers, we employ a state of the art, creative marketing plan to ensure our homeowners get the most money possible from their home sale. Not only that, but that the process is enjoyable along the way!
   market: Canton
   brand: The Amy Wengerd Group
   brokerage: RE/MAX Crossroads
   address: 4522 Fulton Dr. NW Canton, OH 44718
-  address2: Office in Fairlawn, OH as well.
+  address2: 3480 W Market St Fairlawn, Ohio 44333
   phone: 330-617-8230
   phone_type:
   phone2:
@@ -26,23 +26,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.amysguarantee.com/
+  first_CTA_URL: https://www.epropertywatch.com/homeownerPage/x4w8Ojzn
   second_CTA_text: Home Search
-  second_CTA_URL: http://search.amysguarantee.com/?ls=Active&startrow=1&maxrows=50&sort=date_listed_desc&map_tl_lat=42.500603252945815&map_tl_lng=-85.78812874609378&map_br_lat=39.994111795225386&map_br_lng=-77.33414925390628&redraw_map_bounds=false
+  second_CTA_URL: https://www.amysguarantee.com/search#?q_limit=36&q_prioritize=agents.0.id=436224|office.id=9303&mlsId=449&status=1|3&q_sort=featured&q_offset=0
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.amysguarantee.com/
+    CTA_url: https://www.epropertywatch.com/homeownerPage/x4w8Ojzn
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://search.amysguarantee.com/?ls=Active&startrow=1&maxrows=50&sort=date_listed_desc&map_tl_lat=42.500603252945815&map_tl_lng=-85.78812874609378&map_br_lat=39.994111795225386&map_br_lng=-77.33414925390628&redraw_map_bounds=false
+    CTA_url2: https://www.amysguarantee.com/search#?q_limit=36&q_prioritize=agents.0.id=436224|office.id=9303&mlsId=449&status=1|3&q_sort=featured&q_offset=0
 
 lender:
   show_section: false
@@ -66,8 +66,8 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: http://www.zillow.com/profile/Amy-Wengerd/
-  trulia_url: http://www.trulia.com/profile/amy-wengerd-realty-group-agent-north-canton-oh-81829/overview
-  yelp_url: http://www.yelp.com/biz/amy-wengerd-realty-group-canton
+  trulia_url: 
+  yelp_url: 
   podcast_url: https://itunes.apple.com/us/podcast/real-estate-podcast-with-amy-wengerd/id1406593608?mt=2
 
 podcast:
