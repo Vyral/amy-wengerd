@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Ways We’ll Help You Buy & Sell a Home All at Once
-date: 2019-05-20 17:06:03
+date: 2019-05-20 17:06:00
 tags:
 excerpt: >-
   If your sights are set on selling your current home and buying a new home at
