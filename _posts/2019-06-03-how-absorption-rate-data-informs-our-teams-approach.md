@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Absorption Rate Data Informs Our Team’s Approach
-date: 2019-06-03 15:47:47
+date: 2019-06-03 15:47:00
 tags:
 excerpt: >-
   To better understand the market’s state at a given time, many buyers and
