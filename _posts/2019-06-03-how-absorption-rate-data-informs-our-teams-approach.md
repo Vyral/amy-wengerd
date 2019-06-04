@@ -24,7 +24,7 @@ As you can see, I’m holding a stack of papers, and printed on these papers are
 
 Absorption rate data is divided into area, county, and the townships and cities located within them. Let’s explore how instrumental this data is in serving our clients a little further:&nbsp;
 
-Last year in North Canton, there was just a single month’s worth of homes in the $200,000 to $300,000 price range. Fast forward to 2019: We now have a three-month supply of homes in that same price range. With respect to those homes, this points to a slowdown in sales and more inventory from one year to the next. &nbsp;
+Last year in North Canton, there was just a one month’s supply of homes in the $200,000 to $300,000 price range. Fast forward to 2019: We now have a three-month supply of homes in that same price range. With respect to those homes, this points to a slowdown in sales and more inventory from one year to the next. &nbsp;
 
 {% include pullquote.html %}
 
