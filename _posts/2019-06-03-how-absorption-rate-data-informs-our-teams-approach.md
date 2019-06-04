@@ -7,7 +7,7 @@ excerpt: >-
   To better understand the market’s state at a given time, many buyers and
   sellers come to us asking about supply and demand in their particular area.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/Canton-Akron+Real+Estate+Agent-+How+We+Use+Absorption+Rate+Data+to+Help+You+Buy+or+Sell+Effectively.mp4
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/Canton-Akron+Real+Estate+Agent-+How+We+Use+Absorption+Rate+Data+to+Help+You+Buy+or+Sell+Effectively+(2).mp4
 pullquote: >-
   By careful comparison and analysis of absorption rate data, we can advise both
   our buyers and sellers based on the numbers for that particular week.
