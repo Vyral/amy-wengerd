@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comparing Our Market Between the First Half of 2018 and 2019
-date:
+date: 2019-06-21 14:52:28
 tags:
   - Market Update
   - Real Estate
