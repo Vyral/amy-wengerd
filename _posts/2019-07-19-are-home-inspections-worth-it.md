@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Home Inspections Worth It?
-date: 2019-07-19 17:05:23
+date: 2019-07-19 17:05:00
 tags:
   - Real Estate
   - Home Buyer Tips
