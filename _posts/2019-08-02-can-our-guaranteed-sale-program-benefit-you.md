@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can Our Guaranteed Sale Program Benefit You?
-date: 2019-08-02 14:44:06
+date: 2019-08-02 14:44:00
 tags:
   - Real Estate
   - Home Seller Tips
