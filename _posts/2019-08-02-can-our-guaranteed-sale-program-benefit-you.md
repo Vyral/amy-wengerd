@@ -20,9 +20,9 @@ youtube_code: c7Px8jXxpnE
 
 {% include youtube.html %}
 
-We at The Amy Wengerd Group have been offering our Guaranteed Sale program to our clients for more than six years. Much to their satisfaction, we recently helped seven clients sell their home using this very program.&nbsp;
+We at The Amy Wengerd Group have been offering our Guaranteed Sale Program to our clients for more than six years. Much to their satisfaction, we recently helped seven clients sell their home using this very program.&nbsp;
 
-But how will you know if this program is right for you? Here are five scenarios where our Guaranteed Sale program is just what the doctor ordered:&nbsp;
+But how will you know if this program is right for you? Here are five scenarios where our Guaranteed Sale Program is just what the doctor ordered:&nbsp;
 
 **1\. You want to make an offer on a new home without worrying about the sale of your current home&nbsp;**
 
@@ -36,6 +36,6 @@ But how will you know if this program is right for you? Here are five scenarios 
 
 {% include pullquote.html %}
 
-<br>The bottom line is we’ll strive to get you the most money out of your sale, whether it’s through a traditional channel, our Guaranteed Sale program, or our new instant offer program, your goals are our goals.&nbsp;
+<br>The bottom line is we’ll strive to get you the most money out of your sale, whether it’s through a traditional channel, our Guaranteed Sale Program, or our new instant offer program, your goals are our goals.&nbsp;
 
 If you have any questions or would like to meet with one of our seller specialists to learn the specifics of our program, please give me or my team a call today. We look forward to serving you\! &nbsp;
