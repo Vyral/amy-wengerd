@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Things That Affect the Length of Your Home Purchase
-date:
+date: 2019-08-22 17:21:33
 tags:
 excerpt: 3 tips for homebuyers
 enclosure: 'Even if you’re a highly motivated buyer, the home buying process takes time.'
