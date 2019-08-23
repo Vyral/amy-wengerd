@@ -15,13 +15,13 @@ youtube_code: DxE2Djp5cA4
 
 {% include youtube.html %}
 
-This year alone, we will serve over 200 homebuyers. One of the biggest mistakes we see buyers make is not knowing how much time it takes for the home buying process. **Here are three key things to remember to make your buying experience a success:**
+Through assisting so many clients, we've gained a thorough understanding of what confuses buyers most about the real estate process. **Here are three key things to remember to make your buying experience a success:**
 
 **1\. The process may take longer than you think.** On average, it can take one to three months for a buyer to find a home that they like. That’s assuming that all the good houses are available and not flying off the market like they did this last spring.
 
 {% include pullquote.html %}
 
-2\. **Once your offer is accepted, the bank will take approximately 40 days to process and approve your loan.**
+**2\.****Once your offer is accepted, the bank will take approximately 40 days to process and approve your loan.**
 
 **3\.****The homeowner may ask for additional time to stay in the house after closing.** This is negotiable, but it should be something that you account for when you’re calculating your timeline.
 
