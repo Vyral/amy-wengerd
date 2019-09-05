@@ -3,8 +3,11 @@ layout: post
 title: 3 Things That Affect the Length of Your Home Purchase
 date: 2019-08-22 17:21:00
 tags:
-excerpt: 3 tips for homebuyers
-enclosure: 'Even if you’re a highly motivated buyer, the home buying process takes time.'
+excerpt: >-
+  Even if you’re a highly motivated buyer, the home buying process takes time.
+  Here are some tips to help you set a realistic timeline.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/3+Key+Tips+for+Homebuyers+(1).mp4
 pullquote: It could take five months or more from start to finish.
 enclosure_type: video/mp4
 enclosure_time:
