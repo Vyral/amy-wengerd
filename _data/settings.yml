@@ -26,7 +26,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.amysguarantee.com/home_value
+  first_CTA_URL: https://www.epropertywatch.com/homeownerPage/x4w8Ojzn
   second_CTA_text: Home Search
   second_CTA_URL: https://www.amysguarantee.com/search#?q_limit=36&q_prioritize=agents.0.id=436224|office.id=9303&mlsId=449&status=1|3&q_sort=featured&q_offset=0
 
@@ -35,7 +35,7 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.amysguarantee.com/home_value
+    CTA_url: https://www.epropertywatch.com/homeownerPage/x4w8Ojzn
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
