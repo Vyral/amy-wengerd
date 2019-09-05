@@ -26,7 +26,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.epropertywatch.com/homeownerPage/x4w8Ojzn
+  first_CTA_URL: https://www.amysguarantee.com/home_value
   second_CTA_text: Home Search
   second_CTA_URL: https://www.amysguarantee.com/search#?q_limit=36&q_prioritize=agents.0.id=436224|office.id=9303&mlsId=449&status=1|3&q_sort=featured&q_offset=0
 
@@ -35,7 +35,7 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.epropertywatch.com/homeownerPage/x4w8Ojzn
+    CTA_url: https://www.amysguarantee.com/home_value
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
@@ -68,8 +68,8 @@ socials:
   zillow_url: http://www.zillow.com/profile/Amy-Wengerd/
   google_reviews_url: https://www.google.com/search?q=amy+wengerd+group&rlz=1C1AZAA_enUS742US743&oq=amy+wengerd+group&aqs=chrome..69i57j69i60j69i61j0.2823j0j4&sourceid=chrome&ie=UTF-8#lrd=0x8836d12b4522721d
   facebook_reviews: https://www.facebook.com/SOLDBYWENGERD
-  trulia_url: 
-  yelp_url: 
+  trulia_url:
+  yelp_url:
   podcast_url: https://itunes.apple.com/us/podcast/real-estate-podcast-with-amy-wengerd/id1406593608?mt=2
 
 podcast:
@@ -111,7 +111,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: transparent
-  button_text_color: '#123456'
+  button_text_color: '#bda287'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'

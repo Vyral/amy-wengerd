@@ -1364,7 +1364,7 @@ html[xmlns] .flexslider .slides {
 
 .navbar-left > li > a {
   background: transparent;
-  color: black;
+  color: #bda287;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
@@ -1382,7 +1382,7 @@ html[xmlns] .flexslider .slides {
 
 .cta {
   background: transparent;
-  color: #123456;
+  color: #bda287;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
@@ -1512,17 +1512,17 @@ label.tree-toggle {
     font-size: 5rem; } }
 @media (max-width: 1000px) {
   .site-logo {
-    max-width: 20rem; } }
+    max-width: 50rem; } }
 @media (max-width: 760px) {
   .site-logo {
-    max-width: 20rem;
+    max-width: 50rem;
     margin-top: 4rem; }
 
   .site-title {
     font-size: 5rem; } }
 @media (max-width: 600px) {
   .site-logo {
-    max-width: 15rem;
+    max-width: 40rem;
     margin-top: 2rem; }
 
   .site-title {
@@ -2327,6 +2327,18 @@ table tr, table td {
 @media (max-width: 990px) {
   .review-button-wrapper {
     text-align: center; } }
+.google-logo {
+  fill: white;
+  max-height: 3rem;
+  position: relative;
+  top: 0.5rem; }
+
+.facebook-logo {
+  fill: white;
+  max-height: 3rem;
+  position: relative;
+  top: 0.5rem; }
+
 .client-image-container {
   border-radius: 50%;
   width: 200px;
@@ -2580,7 +2592,7 @@ form select {
 
 .cta {
   background: transparent;
-  color: #123456;
+  color: #bda287;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
