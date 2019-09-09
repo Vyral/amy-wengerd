@@ -19,9 +19,9 @@ youtube_code: 5L2F59qs36M
 
 {% include youtube.html %}
 
-**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Looking to sell a home? [Click Here](https://www.epropertywatch.com/homeownerPage/x4w8Ojzn){: target="_blank"}**
+**&nbsp; Looking to sell a home? [Click Here](https://www.epropertywatch.com/homeownerPage/x4w8Ojzn){: target="_blank"}**
 
-**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Looking to buy a home? [Click Here](https://www.amysguarantee.com/search){: target="_blank"}**
+**&nbsp; Looking to buy a home? [Click Here](https://www.amysguarantee.com/search){: target="_blank"}**
 
 Is the Fast Forward program the best option for your own selling goals? It just might be if: &nbsp;As many of you know, The Amy Wengerd Group unveiled our Fast Forward program for home sellers earlier this year. We’re excited to report that it’s been a resounding success as we’ve been able to serve so many of our clients with it already. In fact, we just closed on a client’s house today\!&nbsp;
 
