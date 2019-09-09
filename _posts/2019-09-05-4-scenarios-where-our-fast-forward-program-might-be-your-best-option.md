@@ -37,4 +37,4 @@ If you’re interested in pursuing one of these selling options, we’d be happy
 
 If you’d like to sell your home the traditional way, we can help with that too and we promise equally amazing results.&nbsp;
 
-If you have any questions or would like more information, please reach out to us today, so we can find out which method is most appropriate for your situation. We look forward to hearing from you\!&nbsp;<br>&nbsp;
+If you have any questions or would like more information, please reach out to us today so we can find out which method is most appropriate for your situation. We look forward to hearing from you\!&nbsp;<br>&nbsp;
