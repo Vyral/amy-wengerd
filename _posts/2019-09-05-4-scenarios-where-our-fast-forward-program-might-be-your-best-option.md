@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   You could be the next home seller to take advantage of our Fast Forward
   program.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/4+Scenarios+Where+Our+Fast+Forward+Program+Might+Be+Your+Best+Option.mp4
 pullquote: >-
   It’s that simple: no hassle, no showings, no waiting for a buyer to come
   along.
