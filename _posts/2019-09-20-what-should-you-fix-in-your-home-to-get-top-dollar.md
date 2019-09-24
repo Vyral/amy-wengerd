@@ -6,7 +6,9 @@ tags:
 excerpt: >-
   Before you put your home on the market, there are four repairs and upgrades
   you should make to ensure you earn top dollar.
-enclosure:
+enclosure: >-
+  s3://vyralmarketing/Amy Wengerd/What Should You Fix in Your Home to Get Top
+  Dollar_.mp4
 pullquote: >-
   Buyers will be able to better envision how they might utilize your home’s
   space after it’s been decluttered.
