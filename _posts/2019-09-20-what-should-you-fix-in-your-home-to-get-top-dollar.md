@@ -21,7 +21,7 @@ youtube_code: SjqFcv_53OM
 
 {% include youtube.html %}
 
-<center>Before you put your home on the market, there are four repairs and upgrades you should make to ensure you earn top dollar.</center>
+<center><em>Before you put your home on the market, there are four repairs and upgrades you should make to ensure you earn top dollar.</em></center>
 
 &nbsp;
 
