@@ -31,4 +31,4 @@ Investors and homeowners, take note: My team is having so much success that we w
 
 If you’re an investor, you need to call my team and me now, because we know how hard it is to find the right properties and compete against other investors to purchase them. As one of our investors, we’ll let you know which houses we have that fit your criteria. It’s an easy purchasing process, and you get to pick the closing date.&nbsp;
 
-This is just one more way the Amy Wengerd Group is making it easy for sellers and investors to achieve success in any market. If you have any questions about this program or have any other real estate needs we can help you with, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+This is just one more way the Amy Wengerd Group is making it easy for sellers and investors to achieve success in any market. If you have any questions about this program or have any other real estate needs we can help you with, don’t hesitate to give me a call or send me an email.&nbsp;**Certain restrictions apply.** I look forward to hearing from you soon.
