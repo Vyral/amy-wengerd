@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Reasons Our Fast Forward Program Might Be Your Best Option
-date: 2019-10-07 17:10:23
+date: 2019-10-07 17:10:00
 tags:
 excerpt: >-
   Whether you’re an investor or a homeowner, our Fast Forward Program may be
@@ -19,7 +19,7 @@ youtube_code: fTkbZjz6l8w
 
 {% include youtube.html %}
 
-<center>Whether you&rsquo;re an investor or a homeowner, our Fast Forward Program may be perfect for you. Here&rsquo;s why.</center>
+<center><em>Whether you&rsquo;re an investor or a homeowner, our Fast Forward Program may be perfect for you. Here&rsquo;s why.</em></center>
 
 <center>&nbsp;</center>
 
