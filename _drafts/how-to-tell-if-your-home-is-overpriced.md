@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/wengerd-youtube-4.jpg
 youtube_code: Fq3VBQ7Ta08
 ---
 
-{% include youtube.html %}There are three ways you can tell if your home is overpriced. There are three ways you can tell if your home is overpriced.&nbsp;
+{% include youtube.html %}<center>There are three ways you can tell if your home is overpriced. There are three ways you can tell if your home is overpriced.</center>&nbsp;
 
 Many homeowners come to us to voice their frustration that their home hasn’t sold, and almost every time, the reason why boils down to overpricing.&nbsp;
 
