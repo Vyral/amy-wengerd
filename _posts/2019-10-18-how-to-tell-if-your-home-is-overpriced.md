@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Tell if Your Home Is Overpriced
-date: 2019-10-18 14:53:10
+date: 2019-10-18 14:53:00
 tags:
 excerpt: There are three ways you can tell if your home is overpriced.
 enclosure:
@@ -17,7 +17,7 @@ youtube_code: Fq3VBQ7Ta08
 
 {% include youtube.html %}
 
-<center>There are three ways you can tell if your home is overpriced. There are three ways you can tell if your home is overpriced.</center>
+<center>There are three ways you can tell if your home is overpriced.&nbsp;</center>
 
 &nbsp;
 
@@ -33,7 +33,7 @@ Here are the three ways to know if your home is overpriced:
 
 **2\. Your home has showings, but no offers.** In this situation, you’ll hear buyers tell you that they’d like to keep looking, or the house just isn’t for them, or they found something they liked better. Usually, this means they liked what they saw online, but they decided the home wasn’t a good value in person. In other words, you’re helping to sell the competition.
 
-**3\. Potential buyers are making lowball offers.** This doesn’t mean they want to “steal your house.” They may like it, but don’t believe the price aligns with current market conditions.&nbsp;
+**3\. Potential buyers are making lowball offers.** This doesn’t mean they want to “steal your house.” They may like it, but feel as though the price doesn't align with current market conditions.&nbsp;
 
 You always want to net the most money possible from your home sale, but you don’t want to sabotage it by pricing your home too high.&nbsp;
 
