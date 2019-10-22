@@ -4,7 +4,8 @@ title: How to Tell if Your Home Is Overpriced
 date: 2019-10-18 14:53:00
 tags:
 excerpt: There are three ways you can tell if your home is overpriced.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/How+to+Tell+if+Your+Home+Is+Overpriced.mp4
 pullquote: >-
   You always want to net the most money possible from your home sale, but you
   don’t want to sabotage it by pricing your home too high.
