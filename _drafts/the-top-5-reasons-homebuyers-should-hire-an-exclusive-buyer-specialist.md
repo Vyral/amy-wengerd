@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/wengerd-youtube-5.jpg
 youtube_code: jftxkc2cBbE
 ---
 
-{% include youtube.html %}Here are the top five reasons that homebuyers should hire an exclusive buyer specialist to assist them in their purchase.
+{% include youtube.html %<center>Here are the top five reasons that homebuyers should hire an exclusive buyer specialist to assist them in their purchase.</center>
 
 The Amy Wengerd Group has created an exclusive group of buyer specialists who are not only licensed Realtors, but who have also gone through extensive additional training before ever even serving one of our clients. Here are the top five reasons that homebuyers should hire an exclusive buyer specialist:
 
