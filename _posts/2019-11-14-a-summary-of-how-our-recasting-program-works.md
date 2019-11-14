@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Summary of How Our Recasting Program Works
-date:
+date: 2019-11-14 18:00:31
 tags:
 excerpt: >-
   Homeowners: have you heard of recasting? If not, you’ll want to see today’s
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/wengerd-youtube-6.jpg
 youtube_code: v4aqMA6xmAA
 ---
 
-{% include youtube.html %} <center>Homeowners: have you heard of recasting? If not, you’ll want to see today’s post.</center>
+{% include youtube.html %}
+
+<center>Homeowners: have you heard of recasting? If not, you&rsquo;ll want to see today&rsquo;s post.</center>
+
+&nbsp;
 
 If you’re a homeowner who wants to buy a home before selling your current one, you’ll definitely want to hear about our Recasting Program. Here’s how it works:
 
