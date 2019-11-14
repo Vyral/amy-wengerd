@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Summary of How Our Recasting Program Works
-date: 2019-11-14 18:00:31
+date: 2019-11-14 18:00:00
 tags:
 excerpt: >-
   Homeowners: have you heard of recasting? If not, you’ll want to see today’s
