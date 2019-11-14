@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/wengerd-youtube-6.jpg
 youtube_code: v4aqMA6xmAA
 ---
 
-{% include youtube.html %} Homeowners: have you heard of recasting? If not, you’ll want to see today’s post.
+{% include youtube.html %} <center>Homeowners: have you heard of recasting? If not, you’ll want to see today’s post.</center>
 
 If you’re a homeowner who wants to buy a home before selling your current one, you’ll definitely want to hear about our Recasting Program. Here’s how it works:
 
