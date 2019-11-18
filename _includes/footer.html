@@ -10,9 +10,6 @@
 					{% endif %}
 	        </div>
 	        <div class="col-sm-6">
-	          <address itemprop="address">{{site.data.settings.client.address}}</address>
-						{{site.data.settings.client.address2}}
-	        </div>
 	      {% elsif site.data.settings.client.brand == null %}
 	        <div class="col-sm-4">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
@@ -24,9 +21,7 @@
 	          <span itemprop="branchof">{{site.data.settings.client.brokerage}}</span>
 	        </div>
 	        <div class="col-sm-4">
-						<address itemprop="address">{{site.data.settings.client.address}}</address>
-	          {{site.data.settings.client.address2}}
-	        </div>
+
 	      {% elsif site.data.settings.client.brokerage == null  %}
 	        <div class="col-sm-4">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
@@ -37,10 +32,7 @@
 	        <div class="col-sm-4">
 	          <span itemprop="brand">{{site.data.settings.client.brand}}</span>
 	        </div>
-	        <div class="col-sm-4">
-	          <address itemprop="address">{{site.data.settings.client.address}}</address>
-						{{site.data.settings.client.address2}}
-	        </div>
+
 	      {% else %}
 	        <div class="col-sm-3">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
@@ -54,10 +46,7 @@
 	        <div class="col-sm-3">
 	          <span itemprop="branchof">{{site.data.settings.client.brokerage}}</span>
 	        </div>
-	        <div class="col-sm-3">
-	          <address itemprop="address">{{site.data.settings.client.address}}</address>
-						{{site.data.settings.client.address2}}
-	        </div>
+
 	      {% endif %}
 	    </div>
 	    <hr>
