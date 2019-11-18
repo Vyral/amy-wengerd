@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/wengerd-youtube-6.jpg
-youtube_code: v4aqMA6xmAA
+youtube_code: MfgpwiLlH_U
 ---
 
 {% include youtube.html %}
