@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '‘Tis the Season: Our December Special for New Home Selling Clients'
-date:
+date: 2019-11-26 17:13:50
 tags:
 excerpt: >-
   In the giving spirit of the holiday season, we’re extending a special offer to
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/wengerd-youtube-7.jpg
 youtube_code: rHahtHshhUQ
 ---
 
-{% include youtube.html %}<center>In the giving spirit of the holiday season, we’re extending a special offer to all new homeowners who need to sell before 2020. Learn more here.</center>
+{% include youtube.html %}
+
+<center>In the giving spirit of the holiday season, we&rsquo;re extending a special offer to all new homeowners who need to sell before 2020. Learn more here.</center>
+
+&nbsp;
 
 To show our appreciation for all the love and support we’ve received over the course of this year, **we’re extending a special offer to all new homeowners who list their homes with us during the month of December:** We will pay the cost of a one-year home warranty for your home sale—a $425-value\! This allows us to market your home to buyers as a warranty-protected property for the first year that they live in the home.
 
