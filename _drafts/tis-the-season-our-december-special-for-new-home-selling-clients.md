@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/wengerd-youtube-7.jpg
 youtube_code: rHahtHshhUQ
 ---
 
-{% include youtube.html %}In the giving spirit of the holiday season, we’re extending a special offer to all new homeowners who need to sell before 2020. Learn more here.
+{% include youtube.html %}<center>In the giving spirit of the holiday season, we’re extending a special offer to all new homeowners who need to sell before 2020. Learn more here.</center>
 
 To show our appreciation for all the love and support we’ve received over the course of this year, **we’re extending a special offer to all new homeowners who list their homes with us during the month of December:** We will pay the cost of a one-year home warranty for your home sale—a $425-value\! This allows us to market your home to buyers as a warranty-protected property for the first year that they live in the home.
 
