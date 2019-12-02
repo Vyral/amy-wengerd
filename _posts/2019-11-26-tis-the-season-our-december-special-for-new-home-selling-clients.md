@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '‘Tis the Season: Our December Special for New Home Selling Clients'
-date: 2019-11-26 17:13:50
+date: 2019-11-26 17:13:00
 tags:
 excerpt: >-
   In the giving spirit of the holiday season, we’re extending a special offer to
@@ -9,7 +9,7 @@ excerpt: >-
 enclosure:
 pullquote: >-
   We will pay the cost of a one-year home warranty for your home sale—a
-  $425-valu
+  $425-value
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
