@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/wengerd-youtube-1-2.jpg
 youtube_code: seNC7N9Iggk
 ---
 
-{% include youtube.html %}Let’s discuss the takeaways from 2019 and how they might impact your next real estate decision.
+{% include youtube.html %}<center>Let’s discuss the takeaways from 2019 and how they might impact your next real estate decision.</center>
 
 This is the time of year where the most frequently asked question becomes, “How did the market do this year compared to last year?”
 
