@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Year in Review for the Real Estate Market
-date: 2019-12-17 18:32:13
+date: 2019-12-17 18:32:00
 tags:
 excerpt: >-
   Let’s discuss the takeaways from 2019 and how they might impact your next real
@@ -35,13 +35,13 @@ For 2019, Stark saw a slight dip in residential sales with 4,400. The average pr
 
 Last year, Summit County had 7,900 residential sales. The average price was $167,000, and the average days on market was 74.&nbsp;
 
-Summit saw a larger dip in residential sales than Stark did (7,200 for 2019), but similarly the average sale price increased ($175,000) and the average days on market fell to 66.&nbsp;
+Summit saw a larger dip in residential sales than Stark did (7,200 for 2019), but similarly, the average sale price increased ($175,000) and the average days on market fell to 66.&nbsp;
 
 Those are the numbers, but what does this really tell you?&nbsp;
 
 Since the number of sales in both counties is down this year, we’re still dealing with low housing inventory. It’s nothing new, though; low inventory has characterized our market for five years now.&nbsp;
 
-**This in turn means that home values in both counties have increased**—9% in Stark and 5% in Summit.&nbsp;
+**In turn, means that home values in both counties have increased**—9% in Stark and 5% in Summit.&nbsp;
 
 The bottom line: **If you’re a homeowner wanting to sell, it’s still a great time to do so.&nbsp;**
 
