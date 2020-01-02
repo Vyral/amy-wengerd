@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/wengerd-youtube-2-2.jpg
 youtube_code: gd55M_wdY3A
 ---
 
-{% include youtube.html %} If you’re trying to decide whether to rent or buy in 2020, here are two factors to consider.
+{% include youtube.html %}<center>If you’re trying to decide whether to rent or buy in 2020, here are two factors to consider.</center>
 
 Are you better off renting or buying in the new year?
 
