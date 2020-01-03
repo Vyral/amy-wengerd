@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Decide Whether to Rent or Buy in 2020
-date: 2020-01-02 16:07:18
+date: 2020-01-02 16:07:00
 tags:
 excerpt: >-
   If you’re trying to decide whether to rent or buy in 2020, here are two
@@ -31,7 +31,7 @@ That being said, there are a couple of things to consider when making this decis
 
 {% include pullquote.html %}
 
-**If you’re going to be in the area you intend to live in for a short period(two years or less), you’re better off renting** because homes appreciate slower in Northeast Ohio than they do in most of the rest of the country. Keep in mind, though, that rentals in our area cost an average of $1,200 per month, so if you rent at that rate for three years, you’d lose at least $43,000. Very rarely do homebuyers lose out on $43,000 if they have to sell in three years.&nbsp;
+**If you’re going to be in the area you intend to live in for a short period (two years or less), you’re better off renting** because homes appreciate slower in Northeast Ohio than they do in most of the rest of the country. Keep in mind, though, that rentals in our area cost an average of $1,200 per month, so if you rent at that rate for three years, you’d lose at least $43,000. Very rarely do homebuyers lose out on $43,000 if they have to sell in three years.&nbsp;
 
 Also, **if you don’t qualify for a mortgage, finding a practical rental is a great option, too.** This will allow you to save money and improve your credit score.
 
