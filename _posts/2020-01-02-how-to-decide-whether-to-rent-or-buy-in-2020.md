@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   If you’re trying to decide whether to rent or buy in 2020, here are two
   factors to consider.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/How+to+Decide+Whether+to+Rent+or+Buy+in+2020.mp4
 pullquote: >-
   Homes appreciate slower in Northeast Ohio than they do in most of the rest of
   the country.
