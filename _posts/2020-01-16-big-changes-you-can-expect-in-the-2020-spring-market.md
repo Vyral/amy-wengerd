@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Big Changes You Can Expect in the 2020 Spring Market
-date:
+date: 2020-01-16 15:19:42
 tags:
 excerpt: Here are a few important changes you can expect in the 2020 spring market.
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/wengerd-youtube-3-2.jpg
 youtube_code: U7C3VpSkHoE
 ---
 
-{% include youtube.html %}<center>Here are a few important changes you can expect in the 2020 spring market.</center>
+{% include youtube.html %}
+
+<center>Here are a few important changes you can expect in the 2020 spring market.</center>
+
+&nbsp;
 
 As laid out in a recent report from CNBC, **here are some trends that have changed how homebuyers will shop for homes in 2020:**
 
