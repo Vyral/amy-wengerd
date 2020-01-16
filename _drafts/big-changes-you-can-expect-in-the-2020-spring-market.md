@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/wengerd-youtube-3-2.jpg
 youtube_code: U7C3VpSkHoE
 ---
 
-{% include youtube.html %}Here are a few important changes you can expect in the 2020 spring market.
+{% include youtube.html %}<center>Here are a few important changes you can expect in the 2020 spring market.</center>
 
 As laid out in a recent report from CNBC, **here are some trends that have changed how homebuyers will shop for homes in 2020:**
 
