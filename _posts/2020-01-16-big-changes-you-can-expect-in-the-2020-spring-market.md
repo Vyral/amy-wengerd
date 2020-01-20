@@ -4,7 +4,8 @@ title: Big Changes You Can Expect in the 2020 Spring Market
 date: 2020-01-16 15:19:00
 tags:
 excerpt: Here are a few important changes you can expect in the 2020 spring market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/Big+Changes+You+Can+Expect+in+the+2020+Spring+Market.mp4
 pullquote: The search for homes is starting earlier and earlier.
 enclosure_type: video/mp4
 enclosure_time:
