@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/wengerd-youtube-4-1.jpg
 youtube_code: MlZPl7CsR98
 ---
 
-{% include youtube.html %}I’m sharing what our interest rate predictions could do for you in 2020.
+{% include youtube.html %}<center>I’m sharing what our interest rate predictions could do for you in 2020.</center>
 
 Hello Northeast Ohio\! Most of you likely haven’t heard the interest rate predictions for this year. Analysts are saying they could drop as low as 3.4%\! What does that mean for you as a homebuyer?&nbsp;
 
