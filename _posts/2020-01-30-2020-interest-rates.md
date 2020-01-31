@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2020 Interest Rates
-date: 2020-01-30 16:31:07
+date: 2020-01-30 16:31:00
 tags:
 excerpt: I’m sharing what our interest rate predictions could do for you in 2020.
 enclosure:
@@ -13,11 +13,15 @@ youtube_alternate_image: /uploads/wengerd-youtube-4-1.jpg
 youtube_code: MlZPl7CsR98
 ---
 
-{% include youtube.html %}<center>I’m sharing what our interest rate predictions could do for you in 2020.</center>
+{% include youtube.html %}
+
+<center>I&rsquo;m sharing what our interest rate predictions could do for you in 2020.</center>
+
+&nbsp;
 
 Hello Northeast Ohio\! Most of you likely haven’t heard the interest rate predictions for this year. Analysts are saying they could drop as low as 3.4%\! What does that mean for you as a homebuyer?&nbsp;
 
-I’ll give you a few examples. In the following examples, payment assumes that the analysts’ predictions of a possible 3.4% interest rate this year come true. Also, this is with an FHA loan and a 3.5% down payment.&nbsp;
+I’ll give you a few examples, and each one assumes. In the following examples, payment assumes that the analysts’ predictions of a possible 3.4% interest rate this year come true. Also, this is with an FHA loan and a 3.5% down payment.&nbsp;
 
 {% include pullquote.html %}
 
