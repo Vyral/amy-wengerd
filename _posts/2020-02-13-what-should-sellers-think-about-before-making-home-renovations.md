@@ -18,7 +18,7 @@ youtube_alternate_image: /uploads/wengerd-youtube-5-2.jpg
 youtube_code: vxjlgopq5Ew
 ---
 
-{% include youtube.html %}
+{% include youtube.html %}If you’re in the market to sell your home, you need to know that all home remodel projects aren’t created equal. Here’s where you can get the best bang for your buck.
 
 If you’re in the market to sell your home and you’re wondering what you can do before selling to get the highest possible sale price, I’ve got some great advice today. Many homeowners will spend a lot of money on upgrades and improvements that they think homeowners will appreciate, only to find out later that buyers won’t pay extra for it. **Here are four things that you should keep in mind when determining what you should do before selling:**
 
