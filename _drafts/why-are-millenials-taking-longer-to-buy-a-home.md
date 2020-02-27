@@ -15,7 +15,7 @@ youtube_alternate_image:
 youtube_code: 4aRrUzPe8hU
 ---
 
-{% include youtube.html %}I’m discussing why millennials aren’t buying homes like previous generations and their reasons for it.
+{% include youtube.html %}<center>I’m discussing why millennials aren’t buying homes like previous generations and their reasons for it.</center>
 
 We are noticing a trend with our millennial buyers, which are people currently between the ages of 23 and 38. We’re observing that they’re taking longer to buy a home than older generations. They may seem eager to buy, but **75% of millennial buyers say they’re overwhelmed by the process of purchasing a house.&nbsp;**
 
