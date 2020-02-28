@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Are Millenials Taking Longer to Buy a Home?
-date: 2020-02-27 14:59:57
+date: 2020-02-27 14:59:00
 tags:
 excerpt: >-
   I’m discussing why millennials aren’t buying homes like previous generations
@@ -11,7 +11,7 @@ pullquote: A goal without a plan is just a wish.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/wengerd-youtube-6-1.jpg
 youtube_code: 4aRrUzPe8hU
 ---
 
