@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Now’s the Time to Consider Refinancing
-date:
+date: 2020-03-12 15:22:59
 tags:
 excerpt: 'If you’re a homeowner, we recommend refinancing now. Here’s why.'
 enclosure:
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/wengerd-youtube-7-1.jpg
 youtube_code: WAFqMsuzKCI
 ---
 
-{% include youtube.html %}<center>If you’re a homeowner, we recommend refinancing now. Here’s why.&nbsp;</center>
+{% include youtube.html %}
+
+<center>If you&rsquo;re a homeowner, we recommend refinancing now. Here&rsquo;s why.&nbsp;</center>
+
+&nbsp;
 
 If you’re a homeowner who doesn’t have plans to sell, you should consider refinancing right now.&nbsp;&nbsp;
 
