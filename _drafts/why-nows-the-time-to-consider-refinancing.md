@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/wengerd-youtube-7-1.jpg
 youtube_code: WAFqMsuzKCI
 ---
 
-{% include youtube.html %}If you’re a homeowner, we recommend refinancing now. Here’s why.&nbsp;
+{% include youtube.html %}<center>If you’re a homeowner, we recommend refinancing now. Here’s why.&nbsp;</center>
 
 If you’re a homeowner who doesn’t have plans to sell, you should consider refinancing right now.&nbsp;&nbsp;
 
