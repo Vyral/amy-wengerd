@@ -31,8 +31,8 @@ Don’t assume whoever your mortgage is through is your best contact. You can re
 
 At the Amy Wengerd Group, we’re all about making the most money for people on their largest investment. In many cases, that means selling that investment, but **refinancing can help you save tens of thousands of dollars over the next 10 to 15 years.&nbsp;**
 
-Of course, if refinancing is not your goal and you’re ready for a new home, we’ve got you covered there as well. We’re your one-stop shop for buying, selling, refinancing, or investing.&nbsp;
+Of course, if refinancing is not your goal and you’re ready for a new home, we have you covered there as well. We’re your one-stop-shop for buying, selling, refinancing, or investing.&nbsp;
 
-If you have any questions about this topic or there’s anything we can help you with at all, feel free to reach out to us. We’d love to help you.&nbsp;
+If you have questions about this topic or there’s anything we can help you with at all, feel free to reach out to us. We’d love to help you.&nbsp;
 
 &nbsp;
