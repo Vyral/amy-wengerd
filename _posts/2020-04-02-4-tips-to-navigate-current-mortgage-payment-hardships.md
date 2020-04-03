@@ -21,4 +21,4 @@ youtube_code: Ep6LssRFRP4
 
 &nbsp;
 
-These are very difficult times for many people as we navigate through this temporary health crisis. This challenging period will pass, and we believe our local economy will get through this and flourish afterward. Unfortunately, some of you may be in a position where you need to decide how to make your upcoming mortgage payment. If you’re in this situation, we have four tips to help you navigate these circumstances. First, do not simply stop paying your mortgage; that will cause many more problems.
+These are very difficult times for many people as we deal with this temporary health crisis. This challenging period will pass, and we believe our local economy will get through this and flourish afterward. Unfortunately, some of you may be in a position where you need to decide how to make your upcoming mortgage payment. If you’re in this situation, we have four tips to help you navigate these circumstances. First, do not simply stop paying your mortgage; that will cause many more problems.
