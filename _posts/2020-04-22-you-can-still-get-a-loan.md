@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Can Still Get a Loan
-date:
+date: 2020-04-22 15:19:40
 tags:
 excerpt: >-
   You may have heard that loan guidelines have become stricter. Here’s what you
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/wengerd-youtube-9.jpg
 youtube_code: iu8iS4LUyNs
 ---
 
-{% include youtube.html %}<center>You may have heard that loan guidelines have become stricter. Here’s what you need to know about getting one.</center>
+{% include youtube.html %}
+
+<center>You may have heard that loan guidelines have become stricter. Here&rsquo;s what you need to know about getting one.</center>
+
+&nbsp;
 
 I hope this message finds you safe, healthy, and doing well. You may have heard that some **lenders are tightening their loan qualifying guidelines.** This could mean they’re now requiring a higher credit score, higher down payment, more savings, or a combination of these. Banks want to ensure they’re providing loans to borrowers who are not considered high risk.&nbsp;
 
