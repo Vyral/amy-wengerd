@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/wengerd-youtube-coming-soon-program.jpg
 youtube_code: _VDg9LIbSVY
 ---
 
-{% include youtube.html %}We offer our Coming Soon program to sellers, which helps promote your home.
+{% include youtube.html %}<center>We offer our Coming Soon program to sellers, which helps promote your home.</center>
 
 We hope everyone is well and continuing to stay safe and healthy. **Today’s message is for homeowners:** We have a wonderful advantage for you here at the Amy Wengerd Group. We can help you achieve the highest sale price for your home in the shortest amount of time. It’s called our Coming Soon program, and it helps you promote your house to buyers.
 
