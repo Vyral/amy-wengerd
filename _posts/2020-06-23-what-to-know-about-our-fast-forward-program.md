@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Know About Our Fast-Forward Program
-date:
+date: 2020-06-23 15:25:07
 tags:
 excerpt: Stressed about your summer home sale? We have a fix for that.
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/6-23---amy-wengerd---yt.jpg
 youtube_code: w9y6V-A4r_U
 ---
 
-{% include youtube.html %}<center>Stressed about your summer home sale? We have a fix for that.</center>
+{% include youtube.html %}
+
+<center>Stressed about your summer home sale? We have a fix for that.</center>
+
+&nbsp;
 
 Selling your home can be a huge hassle if you absolutely need to sell but don’t have the time, money, or energy required to do it well in the traditional fashion. Luckily, we have a program designed for sellers whose chief priority is to have an accelerated, pain-free process. Here’s how our Fast Forward Program works:&nbsp;
 
