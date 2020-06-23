@@ -1,8 +1,9 @@
 ---
 layout: post
 title: What to Know About Our Fast-Forward Program
-date: 2020-06-23 15:25:07
+date: 2020-06-23 15:25:00
 tags:
+  - Home Seller Tips
 excerpt: Stressed about your summer home sale? We have a fix for that.
 enclosure:
 pullquote:
