@@ -30,4 +30,4 @@ If you accept the offer, we can typically schedule the closing within about two 
 
 Not everyone needs the absolute most money out of their home sale; depending on the circumstances (or personal preference), some would rather take a little less money just to have the process completed within a few short weeks.&nbsp;
 
-If this sounds like you, give our team a call today or send us an email. Don’t fret; if it turns out this program isn’t the best way to meet your needs, we sell hundreds of homes every year using our award-winning marketing and my 23 years of real estate experience, so we have you covered either way. Also, feel free to reach out with any and all real estate questions you may have. We look forward to hearing from you\!
+If this sounds like you, give our team a call today or send us an email. Don’t fret; if it turns out this program isn’t the best way to meet your needs, we sell hundreds of homes every year using our award-winning marketing and my 23 years of real estate experience, so we have you covered either way. Also, feel free to reach out with any real estate questions you have. We look forward to hearing from you\!
