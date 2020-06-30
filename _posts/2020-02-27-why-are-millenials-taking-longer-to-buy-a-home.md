@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   I’m discussing why millennials aren’t buying homes like previous generations
   and their reasons for it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/Why+Are+Millenials+Taking+Longer+to+Buy+a+Home_+(1).mp4
 pullquote: A goal without a plan is just a wish.
 enclosure_type: video/mp4
 enclosure_time:
