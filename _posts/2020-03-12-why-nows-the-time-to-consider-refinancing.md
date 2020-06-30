@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Why Now’s the Time to Consider Refinancing
-date: 2020-03-12 15:22:59
+date: 2020-03-12 15:22:00
 tags:
 excerpt: 'If you’re a homeowner, we recommend refinancing now. Here’s why.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/Why+Nows+the+Time+to+Consider+Refinancing.mp4
 pullquote: >-
   Make sure the rate you get is at least 1% lower to make the refinance
   worthwhile.
