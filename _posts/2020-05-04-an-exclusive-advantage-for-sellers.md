@@ -4,7 +4,8 @@ title: An Exclusive Advantage for Sellers
 date: 2020-05-04 16:57:00
 tags:
 excerpt: 'We offer our Coming Soon program to sellers, which helps promote your home.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/An+Exclusive+Advantage+for+Sellers+(1).mp4
 pullquote: Put us to work for you!
 enclosure_type: video/mp4
 enclosure_time:
