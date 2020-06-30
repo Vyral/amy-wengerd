@@ -1,12 +1,13 @@
 ---
 layout: post
 title: You Can Still Get a Loan
-date: 2020-04-22 15:19:40
+date: 2020-04-22 15:19:00
 tags:
 excerpt: >-
   You may have heard that loan guidelines have become stricter. Here’s what you
   need to know about getting one.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/You+Can+Still+Get+a+Loan+(1).mp4
 pullquote: >-
   If you are pre-approved right now, double-check with your lender to ensure
   that pre-approval still valid.
