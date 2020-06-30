@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Due to the current health crisis, some may be struggling to pay their
   mortgage. We have four tips that will help you navigate this situation.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/4+Tips+to+Navigate+Current+Mortgage+Payment+Hardships+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
