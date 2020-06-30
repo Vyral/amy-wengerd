@@ -4,7 +4,8 @@ title: 2020 Interest Rates
 date: 2020-01-30 16:31:00
 tags:
 excerpt: I’m sharing what our interest rate predictions could do for you in 2020.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2020+Interest+Rates+(1).mp4
 pullquote: Analysts are saying interest rates could drop as low as 3.4%!
 enclosure_type: video/mp4
 enclosure_time:
