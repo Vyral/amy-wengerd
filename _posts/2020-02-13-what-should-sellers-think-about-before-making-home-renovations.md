@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What Should Sellers Think About Before Making Home Renovations?
-date: 2020-02-13 21:22:16
+date: 2020-02-13 21:22:00
 tags:
 excerpt: >-
   If you’re in the market to sell your home, you need to know that all home
   remodel projects aren’t created equal. Here’s where you can get the best bang
   for your buck.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/What+Should+Sellers+Think+About+Before+Making+Home+Renovations_+(1).mp4
 pullquote: >-
   A small bathroom remodel can be done relatively inexpensively and yield a
   great return.
