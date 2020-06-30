@@ -5,7 +5,8 @@ date: 2020-06-23 15:25:00
 tags:
   - Home Seller Tips
 excerpt: Stressed about your summer home sale? We have a fix for that.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/What+to+Know+About+Our+Fast-Forward+Program.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
