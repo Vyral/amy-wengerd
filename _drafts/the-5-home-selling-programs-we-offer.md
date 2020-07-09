@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/7-8---amy-wengerd---yt.jpg
 youtube_code: KijUd9buD9E
 ---
 
-{% include youtube.html %}Did you know that we offer our sellers five different ways to sell their homes?
+{% include youtube.html %}<center>Did you know that we offer our sellers five different ways to sell their homes?</center>
 
 Here at RE/MAX Crossroads, we pride ourselves on our innovative and creative approach to marketing and selling homes. That said, did you know that we offer our sellers five different ways to sell their homes?
 
