@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Did you know that we offer our sellers five different ways to sell their
   homes?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/The+5+Home+Selling+Programs+We+Offer.mp4
 pullquote: >-
   We want to hear your goals and come up with a customized plan to exceed your
   expectations.
@@ -17,7 +18,11 @@ youtube_alternate_image: /uploads/7-8---amy-wengerd---yt.jpg
 youtube_code: KijUd9buD9E
 ---
 
-{% include youtube.html %}<center>Did you know that we offer our sellers five different ways to sell their homes?</center>
+{% include youtube.html %}
+
+<center>Did you know that we offer our sellers five different ways to sell their homes?</center>
+
+&nbsp;
 
 Here at RE/MAX Crossroads, we pride ourselves on our innovative and creative approach to marketing and selling homes. That said, did you know that we offer our sellers five different ways to sell their homes?
 
