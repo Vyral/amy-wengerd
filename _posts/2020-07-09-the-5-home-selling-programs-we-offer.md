@@ -24,7 +24,7 @@ youtube_code: C52rr_xgOJ4
 
 &nbsp;
 
-Here at RE/MAX Crossroads, we pride ourselves on our innovative and creative approach to marketing and selling homes. That said, did you know that we offer our sellers five different ways to sell their homes?
+Here at exp Realty, we pride ourselves on our innovative and creative approach to marketing and selling homes. That said, did you know that we offer our sellers five different ways to sell their homes?
 
 We’ve realized that while most people will use our traditional home selling plan to get top dollar, there are many other sellers who have specific needs and goals that don’t always fit into our traditional plan. That’s why give options; we want to hear your goals and come up with a customized plan to exceed your expectations.
 
