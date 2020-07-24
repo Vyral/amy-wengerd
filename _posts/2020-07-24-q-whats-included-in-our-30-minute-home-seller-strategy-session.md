@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What’s Included in Our 30-Minute Home Seller Strategy Session?'
-date:
+date: 2020-07-24 15:59:22
 tags:
 excerpt: Here’s what sellers can learn in our strategy session.
 enclosure:
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/7-22---amy-wengerd---yt.jpg
 youtube_code: uOZt0X8tpBA
 ---
 
-{% include youtube.html %}<center>Here’s what sellers can learn in our strategy session.&nbsp;</center>
+{% include youtube.html %}
+
+<center>Here&rsquo;s what sellers can learn in our strategy session.&nbsp;</center>
+
+&nbsp;
 
 We hope you’re enjoying your summer so far and have made some great memories with your friends and family.&nbsp;
 
