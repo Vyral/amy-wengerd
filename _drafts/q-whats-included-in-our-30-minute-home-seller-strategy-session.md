@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/7-22---amy-wengerd---yt.jpg
 youtube_code: uOZt0X8tpBA
 ---
 
-{% include youtube.html %}Here’s what sellers can learn in our strategy session.&nbsp;
+{% include youtube.html %}<center>Here’s what sellers can learn in our strategy session.&nbsp;</center>
 
 We hope you’re enjoying your summer so far and have made some great memories with your friends and family.&nbsp;
 
