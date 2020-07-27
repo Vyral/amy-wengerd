@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What’s Included in Our 30-Minute Home Seller Strategy Session?'
-date: 2020-07-24 16:07:02
+date: 2020-07-24 16:07:00
 tags:
 excerpt: Here’s what sellers can learn in our strategy session.
 enclosure:
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/7-22---amy-wengerd---yt.jpg
-youtube_code: uOZt0X8tpBA
+youtube_code: p6fpgKR6SIs
 ---
 
 {% include youtube.html %}
@@ -23,7 +23,7 @@ youtube_code: uOZt0X8tpBA
 
 We hope you’re enjoying your summer so far and have made some great memories with your friends and family.&nbsp;
 
-Speaking of friends and family, that’s exactly how the Amy Wengerd Group likes to treat our clients. One of the most common calls we get is from homeowners asking us to help them prep their home for sale. Many people aren’t sure where to spend their money or what projects they need to work on to get the best return on investment, and that’s where we come in.&nbsp;
+Speaking of friends and family, that’s exactly how we at the Amy Wengerd Group like to treat our clients. One of the most common calls we get is from homeowners asking us to help them prep their homes for sale. Many people aren’t sure where to spend their money or what projects they need to work on to get the best return on investment, and that’s where we can help.&nbsp;
 
 If you’re thinking about selling, we’re offering a free, 30-minute strategy session. **Here are just a few items of value you’ll receive during your session:**
 
@@ -33,7 +33,7 @@ If you’re thinking about selling, we’re offering a free, 30-minute strategy 
 
 2\. Advice on preparing your home for sale—including staging tips, recommendations for which items to stow away, etc.&nbsp;
 
-3\. A value range for your home in the current market. We know that you may not be ready to sell quite yet, but you’d still like to understand your value range so you can know which projects to focus on. That’s what we’ll help you with\!
+3\. A value range for your home in the current market. We know that you may not be ready to sell quite yet, but you should still know your value range so you can know which projects to focus on. That’s one way we can help you\!
 
 4\. A list of handymen and contractors if you need help with the work that needs to be done.&nbsp;
 
