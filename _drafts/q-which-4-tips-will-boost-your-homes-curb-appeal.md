@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/8-7---amy-wengerd---yt.jpg
 youtube_code: vKP1tRl3Hxc
 ---
 
-{% include youtube.html %} Here are four tips that will strengthen your home’s curb appeal.&nbsp;
+{% include youtube.html %}<center>Here are four tips that will strengthen your home’s curb appeal.&nbsp;</center>
 
 Many home sellers spend so much time prepping the inside of their home for sale that they forget how important curb appeal is to potential homebuyers. Not only does the exterior of your home give buyers a hint of the interior’s condition, but it also has a direct impact on the number of showings your home generates.&nbsp;
 
