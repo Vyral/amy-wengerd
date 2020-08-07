@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Which 4 Tips Will Boost Your Home’s Curb Appeal?'
-date:
+date: 2020-08-07 16:05:42
 tags:
 excerpt: Here are four tips that will strengthen your home’s curb appeal.
 enclosure:
@@ -16,7 +16,11 @@ youtube_alternate_image: /uploads/8-7---amy-wengerd---yt.jpg
 youtube_code: vKP1tRl3Hxc
 ---
 
-{% include youtube.html %}<center>Here are four tips that will strengthen your home’s curb appeal.&nbsp;</center>
+{% include youtube.html %}
+
+<center>Here are four tips that will strengthen your home&rsquo;s curb appeal.&nbsp;</center>
+
+&nbsp;
 
 Many home sellers spend so much time prepping the inside of their home for sale that they forget how important curb appeal is to potential homebuyers. Not only does the exterior of your home give buyers a hint of the interior’s condition, but it also has a direct impact on the number of showings your home generates.&nbsp;
 
