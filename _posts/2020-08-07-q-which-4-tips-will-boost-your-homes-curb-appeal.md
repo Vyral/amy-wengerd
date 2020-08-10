@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/8-7---amy-wengerd---yt.jpg
 youtube_code: vKP1tRl3Hxc
 ---
 
-{% include youtube.html %}
+<center>{% include youtube.html %}</center>
 
 <center>Here are four tips that will strengthen your home&rsquo;s curb appeal.&nbsp;</center>
 
