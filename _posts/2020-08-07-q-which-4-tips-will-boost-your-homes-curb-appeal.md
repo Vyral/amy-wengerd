@@ -12,8 +12,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/8-7---amy-wengerd---yt.jpg
-youtube_code: vKP1tRl3Hxc
+youtube_alternate_image: /uploads/8-11---amy-wengerd---yt.jpg
+youtube_code: aOUX3WQBYA8
 ---
 
 <center>{% include youtube.html %}</center>
