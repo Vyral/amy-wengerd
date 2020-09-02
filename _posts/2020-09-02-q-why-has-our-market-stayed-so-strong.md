@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Has Our Market Stayed So Strong?'
-date:
+date: 2020-09-02 14:31:25
 tags:
 excerpt: 'Despite the pandemic, our market has been thriving.'
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/8-31---amy-wengerd---yt.jpg
 youtube_code: uGYk_7NnjZ8
 ---
 
-{% include youtube.html %}<center>Despite the pandemic, our market has been thriving.&nbsp;</center>
+{% include youtube.html %}
+
+<center>Despite the pandemic, our market has been thriving.&nbsp;</center>
+
+&nbsp;
 
 We’re living through an unprecedented pandemic, but **2020 has also been one of the strongest years for real estate in recent memory, with unparalleled demand from buyers.&nbsp;**
 
