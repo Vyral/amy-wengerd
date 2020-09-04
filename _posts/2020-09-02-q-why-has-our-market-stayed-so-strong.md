@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Has Our Market Stayed So Strong?'
-date: 2020-09-02 14:31:25
+date: 2020-09-02 14:31:00
 tags:
 excerpt: 'Despite the pandemic, our market has been thriving.'
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/8-31---amy-wengerd---yt.jpg
-youtube_code: uGYk_7NnjZ8
+youtube_code: CDBErLIx7FE
 ---
 
 {% include youtube.html %}
