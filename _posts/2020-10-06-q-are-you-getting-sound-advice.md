@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Are You Getting Sound Advice?'
-date: 2020-10-06 18:25:23
+date: 2020-10-06 18:25:00
 tags:
   - Market Update
 excerpt: Here’s why you need someone in your corner with foresight and honesty.
@@ -12,8 +12,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/10-6---amy-wengerd---yt.jpg
+youtube_code: n0Dx8Wx3lJg
 ---
 
 {% include youtube.html %}
