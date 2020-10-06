@@ -18,7 +18,7 @@ youtube_code: n0Dx8Wx3lJg
 
 {% include youtube.html %}
 
-Here’s why you need someone in your corner with foresight and honesty.
+<p style="text-align:center">Here’s why you need someone in your corner with foresight and honesty.</p>
 
 Here at the Amy Wengerd Group, we **want to give you sound professional advice on your largest investment.** It’s a big deal, and we don’t take it lightly. Here’s an example:&nbsp;
 
