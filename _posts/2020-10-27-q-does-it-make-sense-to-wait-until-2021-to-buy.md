@@ -17,7 +17,7 @@ youtube_code: BcHK30-uL1E
 
 {% include youtube.html %}
 
-Our opportunity presents a unique opportunity for homebuyers.
+<p style="text-align:center">Our opportunity presents a unique opportunity for homebuyers.</p>
 
 It’s so hard to believe that we’re nearing the end of 2020, but we can imagine that there aren’t too many of you who are sad to see it go.
 
