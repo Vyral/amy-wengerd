@@ -4,7 +4,7 @@ title: 'Q: Does It Make Sense to Wait Until 2021 to Buy?'
 date: 2020-10-27 16:42:15
 tags:
   - Home Buyer Tips
-excerpt: Our opportunity presents a unique opportunity for homebuyers.
+excerpt: Our fall market presents a unique opportunity for homebuyers.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2020/Q-+Does+It+Make+Sense+to+Wait+Until+2021+to+Buy_.mp4
 pullquote: Money is virtually free to borrow right now.
