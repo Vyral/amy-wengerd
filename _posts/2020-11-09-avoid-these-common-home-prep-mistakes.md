@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Avoid These Common Home Prep Mistakes
-date: 2020-11-09 18:02:41
+date: 2020-11-09 18:02:00
 tags:
   - Home Seller Tips
 excerpt: Don’t part ways with your hard-earned money; beware of these mistakes.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2020/Avoid+These+Common+Home+Prep+Mistakes.mp4
 pullquote: >-
   Someone will buy your home because they like its location and layout, not
   because it has a brand-new furnace.
