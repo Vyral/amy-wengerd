@@ -19,7 +19,7 @@ youtube_code: NBiXndbx6lk
 
 {% include youtube.html %}
 
-Don’t part ways with your hard-earned money; beware of these mistakes.
+<p style="text-align:center"><em>Don’t part ways with your hard-earned money; beware of these mistakes.</em></p>
 
 If you’re prepping your home for a sale, here are the top three mistakes you must avoid:&nbsp;
 
