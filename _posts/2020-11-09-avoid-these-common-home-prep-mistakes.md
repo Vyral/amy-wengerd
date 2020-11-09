@@ -23,7 +23,7 @@ Don’t part ways with your hard-earned money; beware of these mistakes.
 
 If you’re prepping your home for a sale, here are the top three mistakes you must avoid:&nbsp;
 
-**1\. Updating any other level aside from the main one.** The main level of your house, where the kitchen is located, is by far the most important place to invest your money when selling, so forget about updating the other levels. Of course, if you plan on living in your home for a long time and building equity, then feel free to update any other level that you want to. But for those getting ready to sell, don’t spend&nbsp;
+**1\. Updating any other level aside from the main one.** The main level of your house, where the kitchen is located, is by far the most important place to invest your money when selling, so forget about updating the other levels. Of course, if you plan on living in your home for a long time and building equity, then feel free to update any other level that you want to. But for those getting ready to sell, don’t spend tons of money renovating rooms that aren’t on the main level.
 
 {% include pullquote.html %}
 
