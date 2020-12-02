@@ -19,7 +19,7 @@ youtube_code: p1_QPb8C9B4
 
 {% include youtube.html %}
 
-Comparing the stats from 2019 to 2020, your home could be worth more.
+<p style="text-align:center">Comparing the stats from 2019 to 2020, your home could be worth more.</p>
 
 In the world of real estate, we’re in the process of wrapping up 2020, as any new contracts that are written for our clients now will likely close in January. So today I’m providing **a recap of the Stark and Summit County real estate markets by comparing 2019 to 2020.&nbsp;**
 
