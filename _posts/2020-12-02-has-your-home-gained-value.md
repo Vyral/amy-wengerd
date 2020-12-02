@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Has Your Home Gained Value?
-date: 2020-12-02 17:34:16
+date: 2020-12-02 17:34:00
 tags:
   - Real Estate
 excerpt: 'Comparing the stats from 2019 to 2020, your home could be worth more.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2020/Has+Your+Home+Gained+Value_.mp4
 pullquote: >-
   We’ve experienced an average value increase of approximately 10% for our
   properties.
