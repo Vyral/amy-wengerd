@@ -4,7 +4,7 @@ title: Has Your Home Gained Value?
 date: 2020-12-02 17:34:00
 tags:
   - Real Estate
-excerpt: 'Comparing the stats from 2019 to 2020, your home could be worth more.'
+excerpt: 'When comparing the stats from 2019 to 2020, your home could be worth more now.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2020/Has+Your+Home+Gained+Value_.mp4
 pullquote: >-
@@ -19,11 +19,11 @@ youtube_code: p1_QPb8C9B4
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Comparing the stats from 2019 to 2020, your home could be worth more.</em></p>
+<p style="text-align:center"><em>When comparing the stats from 2019 to 2020, your home could be worth more now.</em></p>
 
 In the world of real estate, we’re in the process of wrapping up 2020, as any new contracts that are written for our clients now will likely close in January. So today I’m providing **a recap of the Stark and Summit County real estate markets by comparing 2019 to 2020.&nbsp;**
 
-In Stark County from January 1, 2019 through the end of November 2019, the average sale price was $140,000, homes took an average of 36 days to sell, and sellers received 97.6% of their asking price. During that same stretch of 2020, the average sale price was $157,000, which is a 12% increase. Houses took an average of 29 days to sell, and sellers received 99% of their asking price. If you’re in Stark County, it’s fair to assume that your property could be worth 12% more this year than last.&nbsp;
+In Stark County from January 1, 2019, through the end of November 2019, the average sale price was $140,000, homes took an average of 36 days to sell, and sellers received 97.6% of their asking price. During that same stretch of 2020, the average sale price was $157,000, which is a 12% increase. Houses took an average of 29 days to sell, and sellers received 99% of their asking price. If you’re in Stark County, it’s fair to assume that your property could be worth 12% more this year than last.&nbsp;
 
 {% include pullquote.html %}
 
