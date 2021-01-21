@@ -18,7 +18,7 @@ youtube_code: PF42qQRUf2c
 
 {% include youtube.html %}
 
-Here are the three options you have if the appraisal comes in low.
+<p style="text-align: center;"><em>Here are the three options you have if the appraisal comes in low.</em></p>
 
 It’s difficult to believe we’re already this far into 2021, but all signs point to another seller’s market this year. With sellers continuing to benefit from low inventory, many buyers are paying way over asking price just to secure the home. However, what happens when the appraiser comes out to the property and finds the value of the home to be lower than the sales price? Here are the three options we have for when this situation arises:
 
