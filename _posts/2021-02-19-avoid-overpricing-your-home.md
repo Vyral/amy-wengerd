@@ -20,7 +20,7 @@ youtube_code: mjjp6K6WOZg
 
 {% include youtube.html %}
 
-Here’s how we help you price your home correctly for the current market.
+<p style="text-align: center;"><em>Here’s how we help you price your home correctly for the current market.</em></p>
 
 The media, real estate agents, buyers, and just about everyone else have been saying what a strong seller’s market we’re currently in, and it’s true. Due to the lack of inventory and strong buyer demand, home prices have substantially increased in our area. This is a great opportunity for sellers, but they should avoid one main pitfall.
 
