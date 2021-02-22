@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/2-19-amy-wengerd-yt.jpg
-youtube_code: uG-bCYo4Jnc
+youtube_code: 9b32zE08Lh0
 ---
 
 {% include youtube.html %}
