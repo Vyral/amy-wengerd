@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avoid Overpricing Your Home
-date: 2021-02-19 18:06:12
+date: 2021-02-19 18:06:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -15,12 +15,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/2-19-amy-wengerd-yt.jpg
-youtube_code: mjjp6K6WOZg
+youtube_code: uG-bCYo4Jnc
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how we help you price your home correctly for the current market.</em></p>
+*Here’s how we help you price your home correctly for the current market.*
 
 The media, real estate agents, buyers, and just about everyone else have been saying what a strong seller’s market we’re currently in, and it’s true. Due to the lack of inventory and strong buyer demand, home prices have substantially increased in our area. This is a great opportunity for sellers, but they should avoid one main pitfall.
 
