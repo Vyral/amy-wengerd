@@ -20,11 +20,11 @@ youtube_code: rJPXVTRnUu4
 
 In our last video, the message was for homeowners and sellers about effectively pricing their homes to obtain the highest sale price in this seller’s market. This time, we’re focusing on strategy solutions for homebuyers in the same type of market.
 
+{% include pullquote.html %}
+
 In this seller’s market, multiple offers are commonplace, and offers over asking price are the norm. <b>If you're starting to think about purchasing a home, know that we have helped and will continue to help homebuyers be successful.</b>
 
 The first thing you need is a strategy. Gone are the days of waiting to make an offer. If you hesitate, you will lose your chance. Lowball offers won’t work, either. 
-
-{% include pullquote.html %}
 
 Our team has decades of experience and we’ve successfully navigated through all of the different types of markets over the years. <b>Our 15-step checklist for buyers helps us put you in a great position to win in a very competitive market.</b>
 
