@@ -22,10 +22,10 @@ In our last video, the message was for homeowners and sellers about effectively 
 
 In this seller’s market, multiple offers are commonplace, and offers over asking price are the norm. <b>If you're starting to think about purchasing a home, know that we have helped and will continue to help homebuyers be successful.</b>
 
-{% include pullquote.html %}
-
 The first thing you need is a strategy. Gone are the days of waiting to make an offer. If you hesitate, you will lose your chance. Lowball offers won’t work, either. 
 
-Our team has decades of experience and we’ve successfully navigated through all of the different types of markets over the years. <b>Our 15-step checklist for buyers helps us put our buyers in a great position to win in a very competitive market.</b>
+{% include pullquote.html %}
+
+Our team has decades of experience and we’ve successfully navigated through all of the different types of markets over the years. <b>Our 15-step checklist for buyers helps us put you in a great position to win in a very competitive market.</b>
 
 If you have any questions for us about buying a home or anything else related to real estate, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
