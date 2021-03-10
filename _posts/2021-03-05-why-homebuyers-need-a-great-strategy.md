@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Homebuyers Need a Great Strategy
-date: 2021-03-05 00:00:00
+date: 2021-03-10 00:00:00
 tags: 
     - Home Buying
 excerpt: In a competitive seller’s market, here’s what buyers need to win.
