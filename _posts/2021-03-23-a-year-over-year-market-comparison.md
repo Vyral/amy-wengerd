@@ -19,7 +19,7 @@ youtube_code: CJe0YEMQDpo
 
 {% include excerpt.html %}
 
-March is almost over, so let's take a look at the first quarter of 2021 for Stark and Summit counties and compare it to Q1 of last year.
+March is almost over, so let's take a look at the first quarter of 2021 for Stark and Summit counties and compare it to the first quarter of last year.
 
 **January through March in 2020:**
 
@@ -31,7 +31,7 @@ March is almost over, so let's take a look at the first quarter of 2021 for Star
 **January through March in 2021:**
 
 * Homes sold: 1,847 units
-* Average days on market: ~50 days
+* Average days on market: 50 days
 * Average sales price: $178,310
 * Average price per square foot: $105
 
