@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Year-Over-Year Market Comparison
-date: 2021-03-23 17:19:39
+date: 2021-03-24 05:19:00
 tags:
   - Market Update
   - Real Estate
