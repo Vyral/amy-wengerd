@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Sellers Consider in the Contract
-date: 2021-04-05 21:12:35
+date: 2021-04-08 21:12:00
 tags:
   - Real Estate
 excerpt: Here are the main things that matter to sellers when choosing an offer.
