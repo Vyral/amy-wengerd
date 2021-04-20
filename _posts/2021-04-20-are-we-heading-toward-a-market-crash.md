@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Are We Heading Toward a Market Crash?
-date: 2021-04-20 18:29:18
+date: 2021-04-20 18:29:00
 tags:
   - Real Estate
   - Market Update
-excerpt: This market isn’t the same environment that led up to the 2007 crash.
+excerpt: Here’s why you don’t need to worry about an impending market crash.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2021/Are+We+Heading+Toward+a+Market+Crash_.mp4
-pullquote: Here’s why you don’t need to worry about an impending market crash.
+pullquote: This market isn’t the same environment that led up to the 2007 crash.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
