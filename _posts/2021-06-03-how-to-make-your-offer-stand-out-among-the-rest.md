@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Make Your Offer Stand Out Among the Rest
-date: 2021-06-01 19:12:00
+date: 2021-06-03 07:12:00
 tags:
   - Real Estate
   - Home Buyer Tips
