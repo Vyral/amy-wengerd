@@ -36,6 +36,6 @@ We’re still brainstorming ways to help our clients obtain the houses they want
 
 We’re also brainstorming ways to help our seller clients with this type of situation. If you’re a seller, you might think it’s great that your buyer is waiving all of their inspections, but after they move in, who do you think they’ll seek out the instant something goes wrong? **That’s right:** **the former homeowner.**&nbsp;
 
-It’s a crazy market out there, and we’re all doing our best to navigate it. Remember to be careful and use your best judgement. Again, a house is likely the largest purchase you’ll ever make, so make sure you’ll be happy with it when you move in and for years to come.&nbsp;
+It’s a crazy market out there, and we’re all doing our best to navigate it. Remember to be careful and use your best judgment. Again, a house is likely the largest purchase you’ll ever make, so make sure you’ll be happy with it when you move in and for years to come.&nbsp;
 
 As always, if you have questions about this or any real estate topic, don’t hesitate to reach out to me. I’m happy to help.
