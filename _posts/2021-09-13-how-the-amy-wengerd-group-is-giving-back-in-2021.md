@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Here’s why we’re proud to support these local nonprofits.
 enclosure:
-pullquote: Simply give does vital work assisting cancer fighters.
+pullquote: Simply Give does vital work assisting cancer fighters.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
