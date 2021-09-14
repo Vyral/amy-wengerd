@@ -4,9 +4,9 @@ title: How The Amy Wengerd Group Is Giving Back in 2021
 date: 2021-09-13 06:00:00
 tags:
   - Real Estate
-excerpt: Simply Give does vital work assisting cancer fighters.
+excerpt: Here’s why we’re proud to support these local nonprofits.
 enclosure:
-pullquote: Here’s why we’re proud to support these local nonprofits.
+pullquote: Simply give does vital work assisting cancer fighters.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -27,6 +27,6 @@ On September 23, we’ll be sponsoring Simply Give for the seventh consecutive y
 
 Another fantastic community event we love to support is Bosom Buddies, along with WQMX 94.9 and Scott Wynn. That’s coming up in October for Breast Cancer Awareness Month.
 
-We’ve also been blessed to work with Neopat to help support local military families who have a significant other that is stationed abroad. Overseas service can leave a big gap in households, and we’re proud to support the vital work they’re doing.
+We’ve also been blessed to work with Neopat to help support local military families who have a significant other stationed abroad. Overseas service can leave a big gap in households, and we’re proud to support the vital work they’re doing.
 
-We love our community, we love the people we serve, and we love to be able to give back. If you are able, **please support these great local organizations** If you have any questions for me or real estate needs I can assist with, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+We love our community, we love the people we serve, and we love to be able to give back. If you are able, **please support these great local organizations.** If you have any questions for me or real estate needs I can assist with, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
