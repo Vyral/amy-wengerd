@@ -13,11 +13,11 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /amy-wengerd-yt-1.jpg
-youtube_code: s88V5NlcEY0
+youtube_code: oiWIaMWPhzw
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
+<p style="text-align: center;"><em>{% include excerpt.html %}</em></p>
 
 What’s going on in our real estate market? There’s been a lot of talk of a slowdown, so let’s look at the numbers and see where things are heading.&nbsp;
 
