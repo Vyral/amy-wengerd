@@ -15,7 +15,7 @@ youtube_code: 0z6-1XME8x8
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
+<p style="text-align: center;"><em>{% include excerpt.html %}</em></p>
 
 Happy fall, everyone. The Amy Wengerd Group, like many other companies, is experiencing growth right now, and we are in need of members to join our team. **We’re looking for talented individuals to fill a few specific roles.** You are some of the best sources of referrals that we could ask for, so we wanted to give a quick synopsis of what we’re looking for right now.
 
