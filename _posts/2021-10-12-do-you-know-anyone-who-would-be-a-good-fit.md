@@ -19,7 +19,7 @@ youtube_code: 0z6-1XME8x8
 
 Happy fall, everyone. The Amy Wengerd Group, like many other companies, is experiencing growth right now, and we need members to join our team. **We’re looking for talented individuals to fill a few specific roles.** You are some of the best sources of referrals that we could ask for, so we wanted to give a quick synopsis of what we’re looking for right now\!
 
-**The first position is marketing coordinator.** We’re looking for someone who’s creative and has skills in videography, photography, and editing. This person will manage our social, digital, and print media platforms. They'll also help us nurture past clients so that we can grow even more. We are looking for someone who is also outgoing, forward-thinking, and has experience in helping real estate businesses grow through marketing.
+**The first position is a marketing coordinator.** We’re looking for someone who’s creative and has skills in videography, photography, and editing. This person will manage our social, digital, and print media platforms. They'll also help us nurture past clients so that we can grow even more. We are looking for someone who is also outgoing, forward-thinking, and has experience in helping real estate businesses grow through marketing.
 
 {% include pullquote.html %}
 
