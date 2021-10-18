@@ -5,7 +5,8 @@ date: 2021-10-12 22:07:21
 tags:
   - Careers
 excerpt: Here’s a little information about the positions we’re looking to fill.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2021/Do+You+Know+Anyone+Who+Would+Be+a+Good+Fit_.mp4
 pullquote: Tech-savvy handymen are a huge plus.
 enclosure_type: video/mp4
 enclosure_time:
