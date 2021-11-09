@@ -10,7 +10,8 @@ tags:
 excerpt: >-
     Homes are taking a little longer to sell, but there aren’t that many on the
     market.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2021/Canton+Housing+Market+Update.mp4
 pullquote: Here’s your latest market update for Stark and Summit Counties.
 enclosure_type: video/mp4
 enclosure_time:
