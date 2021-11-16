@@ -20,7 +20,7 @@ youtube_code: G6vVlfG40kU
 
 Happy Thanksgiving\! We’ve almost made it through 2021, and what a year it has been. Today I just wanted to say a very special thank you to the clients that we’ve been able to serve this year, those who have put their trust in us, and those of you who have sent us referrals. **I hope that your Thanksgiving is wonderful**, your Christmas is fantastic, and your new year is blessed and filled with all the things you’re hoping it will contain.&nbsp;
 
-I can’t wait to see all of our present and past clients at our upcoming pie giveaway\! If you haven’t RSVPed yet, please do. It may be too late to RSVP by the time you see this, but we also might have some extra pie to share anyway.
+I can’t wait to see all of our present and past clients at our upcoming pie giveaway\! If you haven’t RSVP'd yet, please do. It may be too late to RSVP by the time you see this, but we also might have some extra pie to share anyway.
 
 {% include pullquote.html %}
 
