@@ -22,7 +22,7 @@ Happy Thanksgiving\! We’ve almost made it through 2021, and what a year it has
 
 I can’t wait to see all of our present and past clients at our upcoming pie giveaway\! If you haven’t RSVP'd yet, please do. It may be too late to RSVP by the time you see this, but we also might have some extra pie to share anyway.
 
-Update: All pies spots have been claimed
+Update: All pies spots have been claimed.
 
 {% include pullquote.html %}
 
