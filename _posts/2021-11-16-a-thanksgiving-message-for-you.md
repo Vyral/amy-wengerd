@@ -6,7 +6,8 @@ tags:
     - happy holidays
     - happy thanksgiving
 excerpt: This is my grateful Thanksgiving message to every one of you.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2021/A+Thanksgiving+Message+for+You.mp4
 pullquote: Have an exceptional holiday season!
 enclosure_type: video/mp4
 enclosure_time:
