@@ -7,7 +7,8 @@ tags:
   - Home Seller Tips
   - Home Buyer Tips
 excerpt: Here’s a story of how Amy’s Guarantee helped a client get out of a pinch.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2021/Amy%E2%80%99s+Guarantee+Saves+the+Day.mp4
 pullquote: We didn’t want to see them lose their dream home.
 enclosure_type: video/mp4
 enclosure_time:
