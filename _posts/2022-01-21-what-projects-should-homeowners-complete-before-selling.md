@@ -18,13 +18,13 @@ youtube_code: s5TkChMQG0Q
 
 {% include excerpt.html %}
 
-Welcome to a new year. We’ve been receiving a ton of calls from homeowners lately who are interested in listing their homes this spring. They want to know what they should add to or upgrade about their homes before they sell. Many think they need a full kitchen or basement remodel to get the best return on investment. Most of the time, what they should actually focus on surprises them. Today I’ll go over some of the easy things you can do to get the best possible return.
+We’ve been receiving a ton of calls from homeowners lately who are interested in listing their homes this spring. They want to know what they should add or upgrade in their homes before they sell. Many think they need a full kitchen or basement remodel to get the best return on investment. Most of the time, what they should actually focus on surprises them. Today I’ll go over some of the easy things you can do to get the best possible return.
 
-**Most times when we meet with homeowners and evaluate their house, we don’t need to do the majority of things the sellers think they need to do.** We’ve found that cleaning the carpets is going to get a great ROI. Touching up your paint is an inexpensive fix, too. You might just need to re-paint a room or two.
+**Most times when we meet with homeowners and evaluate their houses, we don’t need to do the majority of things the sellers think they need to do.** We’ve found that just cleaning the carpets will get a great ROI. Touching up your paint is an inexpensive fix, too. You might just need to re-paint a room or two.
 
 {% include pullquote.html %}
 
-Another great thing you can do is clean up the walls. Decluttering is another great tip. We all have stuff, and we all like to keep it, but the more you can pack away while you’re selling your home, the better. The best way to get the best pictures of your property is to declutter your rooms to help them look better for photos. You're going to move anyway, so you might as well start a little early.
+Decluttering is another great tip. We all have stuff, and we all like to keep it, but the more you can pack away while you’re selling your home, the better. The best way to get the best pictures of your property is to declutter your rooms to help them look better for photos. You're going to move anyway, so you might as well start a little early.
 
 **Curb appeal is another area of focus that brings a great return on investment.** A pop of color here and fresh mulch there can have a huge impact on how buyers perceive your property.
 
