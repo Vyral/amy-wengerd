@@ -24,7 +24,7 @@ We’ve been receiving a ton of calls from homeowners lately who are interested 
 
 {% include pullquote.html %}
 
-Decluttering is another great tip. We all have stuff, and we all like to keep it, but the more you can pack away while you’re selling your home, the better. The best way to get the best pictures of your property is to declutter your rooms to help them look better for photos. You're going to move anyway, so you might as well start a little early.
+Decluttering is another great tip. We all accumulate stuff over the years that we like to hang onto, but the more you can pack away while you’re selling your home, the better. The best way to get the best pictures of your property is to declutter your rooms to help them look better for photos. You're going to move anyway, so you might as well start a little early.
 
 **Curb appeal is another area of focus that brings a great return on investment.** A pop of color here and fresh mulch there can have a huge impact on how buyers perceive your property.
 
