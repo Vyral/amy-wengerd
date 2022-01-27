@@ -6,7 +6,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Here’s where I advise home sellers to spend their money before listing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2022/What+Projects+Should+Homeowners+Complete+Before+Selling_.mp4
 pullquote: You’re going to move anyway, so you might as well pack up a bit early.
 enclosure_type: video/mp4
 enclosure_time:
