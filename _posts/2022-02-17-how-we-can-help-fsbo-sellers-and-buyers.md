@@ -19,9 +19,7 @@ youtube_code: qYGfNEK5YcQ
 
 {% include excerpt.html %}
 
-We’ve seen a lot more for-sale-by-owner homes, or FSBOs, in our market lately. We have also heard many horror stories about what these FSBO sellers are going through. It’s tempting to navigate real estate by yourself.&nbsp;
-
-It’s a seller’s market, so it should be easy, right? That’s not always the case; there are a lot of pitfalls and obstacles even with contracts between professionals, let alone when you do it by yourself. That’s why we’re here to help.
+We’ve seen a lot more for-sale-by-owner homes, or FSBOs, in our market lately. We have also heard many horror stories about what these FSBO sellers are going through. It’s tempting to navigate real estate by yourself. It’s a seller’s market, so it should be easy, right? That’s not always the case; there are a lot of pitfalls and obstacles even with contracts between professionals, let alone when you do it by yourself. That’s why we’re here to help.
 
 **For buyers, we can represent you in a FSBO sale.** We can work with the homeowners, negotiate the commission, and work it all out so that you have representation. The seller can still represent themselves in the transaction too.
 
