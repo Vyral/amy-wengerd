@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/amy-wengerd-yt-6.jpg
-youtube_code: 5dKYQhkpyvE
+youtube_code: qYGfNEK5YcQ
 ---
 {% include youtube.html %}
 
@@ -23,12 +23,12 @@ We’ve seen a lot more for-sale-by-owner homes, or FSBOs, in our market lately.
 
 It’s a seller’s market, so it should be easy, right? That’s not always the case; there are a lot of pitfalls and obstacles even with contracts between professionals, let alone when you do it by yourself. That’s why we’re here to help.
 
-**For buyers, we can represent you in an FSBO sale.** We can work with the homeowners, negotiate the commission, and work it all out so that you have representation. The seller can still represent themselves in the transaction too.
+**For buyers, we can represent you in a FSBO sale.** We can work with the homeowners, negotiate the commission, and work it all out so that you have representation. The seller can still represent themselves in the transaction too.
 
 {% include pullquote.html %}
 
-**For sellers, we have options for you too.** We can offer a free open house where one of our buyer agents will hold your house open, and if they secure a buyer, they will represent that buyer. You can still represent yourself.&nbsp;
+**We have options for sellers, too.** We can offer a free open house where one of our buyer agents will hold your house open, and if they secure a buyer, they will represent that buyer. You can still represent yourself.&nbsp;
 
 We also provide discounted professional photography and a free front picture of your house. We can even give you the state-required forms if you need them. **Our team of 14 buyer agents would love to take a tour of your home** and see if they have any buyers who would be interested.&nbsp;
 
-We understand the temptation of listing FSBO, and we can be flexible with you. We want to be a resource for you, and we want to help out buyer clients if they are interested in an FSBO home. If you are interested in our resources, want to buy a for-sale-by-owner home, or have any other questions, feel free to call or email me or my team. We would love to help you however we can.
+We understand the temptation of listing FSBO, and we can be flexible with you. We want to be a resource for you, and we want to help out buyer clients if they are interested in a FSBO home. If you are interested in our resources, want to buy a for-sale-by-owner home, or have any other questions, feel free to call or email me or my team. We would love to help you however we can.
