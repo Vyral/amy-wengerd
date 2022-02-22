@@ -7,7 +7,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: We have options to help both FSBO sellers and buyers looking at FSBO homes.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2022/How+We+Can+Help+FSBO+Sellers+and+Buyers.mp4
 pullquote: We can be flexible with FSBO buyers and sellers.
 enclosure_type: video/mp4
 enclosure_time:
