@@ -20,7 +20,7 @@ youtube_code: laJ07R65nBg
 
 Today I'll talk about interest rates and what the trends we’re seeing may mean for buyers and our market in general.
 
-Today's average interest rate on a 30-year fixed mortgage is 4.19%. At this same time last month, it was 3.68%. 4.19% is still a phenomenal rate but they are on the rise. Honestly, rates have been unrealistically low for over 20 years now.&nbsp;
+Today's average interest rate on a 30-year fixed mortgage is 4.19%. At this same time last month, it was 3.68%. 4.19% is still a phenomenal rate, but they are on the rise. Honestly, rates have been unrealistically low for over 20 years now.&nbsp;
 
 {% include pullquote.html %}
 
