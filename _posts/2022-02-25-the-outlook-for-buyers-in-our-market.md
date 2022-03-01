@@ -26,6 +26,6 @@ Today's average interest rate on a 30-year fixed mortgage is 4.19%. At this same
 
 **Rising rates could help us balance out this seller's market.** Otherwise, buyers who were already approved at the top of their price point won’t be able to compete, especially with the multiple offers and the higher sale prices that are happening right now.
 
-My advice is to find a home soon and get locked in. In the last seven days in Stark and Summit County, 25 homes that were previously pending and under contract are now back on the market. This could possibly be a great way to find a motivated seller. This is just one of the ways that I help my buyers navigate this market and successfully purchase a home without breaking the bank.&nbsp;
+My advice is to find a home soon and get locked in. In the last seven days in Stark and Summit counties, 25 homes that were previously pending and under contract are now back on the market. This could possibly be a great way to find a motivated seller. This is just one of the ways that I help my buyers navigate this market and successfully purchase a home without breaking the bank.&nbsp;
 
 Contact me by phone or email to set up a private meeting where we can strategize and come up with the best way to put you in your new home. I look forward to hearing from you.
