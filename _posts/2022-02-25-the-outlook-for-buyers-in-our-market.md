@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/amy-wengerd-yt-7.jpg
-youtube_code: laJ07R65nBg
+youtube_code: 5eP2LSbnGlE
 ---
 {% include youtube.html %}
 
