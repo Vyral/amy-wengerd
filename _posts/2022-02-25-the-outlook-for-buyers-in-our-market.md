@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Rising rates might be unattractive but could help balance this market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2022/The+Outlook+for+Buyers+in+Our+Market.mp4
 pullquote: 'My advice is to find a home soon and get locked in. '
 enclosure_type: video/mp4
 enclosure_time:
