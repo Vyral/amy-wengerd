@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Here’s what we’re doing to combat the rise of waived home inspections.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2022/The+Dangers+of+Waiving+Inspections+and+Our+Solution.mp4
 pullquote: It prevents the buyer from being caught off guard by any major issues.
 enclosure_type: video/mp4
 enclosure_time:
