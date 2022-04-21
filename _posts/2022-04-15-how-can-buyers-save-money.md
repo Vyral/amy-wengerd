@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Anxious about buying a home in today’s market? We can help you save money.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2022/How+Can+Buyers+Save+Money_.mp4
 pullquote: >-
   Year to date, we have saved our buyers $137,800 on the asking prices of the
   homes they purchased.
