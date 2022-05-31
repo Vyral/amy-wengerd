@@ -24,7 +24,7 @@ Three to six months ago, a $200,000 house might sell for $235,000. Interest rate
 
 Interest rates have risen in our current market, but what about everything else? In the second scenario, the buyers buy the same $200,000 house. They pay $210,000 instead of $235,000, but they’ll have a higher interest rate of 5.5%. They feel like the home will appraise, so they don’t offer gap coverage. They do an inspection for informational purposes only, and each side pays their own closing costs. They close in the typical 40 days and give the seller only 10 days to vacate their home. Their monthly payment is $1,538.
 
-Yes, that monthly payment is $110 more than what the buyer got, but pay attention to everything else: The second buyer didn’t pay for an appraisal gap or cover any seller closing costs, so they have $10,000 extra than the first buyer. Let’s say the second buyer takes $6,000 of that extra money and uses it to buy down their interest rate to 4.65%. **That makes their monthly payment $1,440, which is only $12 more than it was for the first buyer.**
+Yes, that monthly payment is $110 more than what the buyer got, but pay attention to everything else: The second buyer didn’t pay for an appraisal gap or cover any seller closing costs, so they have $10,000 more than the first buyer. Let’s say the second buyer takes $6,000 of that extra money and uses it to buy down their interest rate to 4.65%. **That makes their monthly payment $1,440, which is only $12 more than it was for the first buyer.**
 
 {% include pullquote.html %}
 
