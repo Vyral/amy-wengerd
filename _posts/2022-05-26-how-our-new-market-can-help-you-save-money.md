@@ -11,7 +11,7 @@ pullquote: Don’t let higher interest rates scare you away from buying or selli
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/amy-wengerd-ss-youtube.png
 youtube_code: QRYytlccfEY
 ---
 {% include youtube.html %}
