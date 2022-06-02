@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Two situations that show the difference between the old and new markets.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Wengerd/2022/How+Our+New+Market+Can+Help+You+Save+Money.mp4
 pullquote: Don’t let higher interest rates scare you away from buying or selling.
 enclosure_type: video/mp4
 enclosure_time:
