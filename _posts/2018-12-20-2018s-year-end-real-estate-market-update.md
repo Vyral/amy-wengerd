@@ -12,8 +12,8 @@ enclosure:
 pullquote: Our market is still very strong for Northeast Ohio sellers.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_video_image: true
+video_alternate_image:
 youtube_code: AdwntpTg8cU
 ---
 

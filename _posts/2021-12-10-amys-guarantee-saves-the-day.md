@@ -12,8 +12,8 @@ enclosure: >-
 pullquote: We didn’t want to see them lose their dream home.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/amy-wengerd-yt-4.jpg
+use_video_image: true
+video_alternate_image: /uploads/amy-wengerd-yt-4.jpg
 youtube_code: DdbT2u-B6Mc
 ---
 {% include youtube.html %}

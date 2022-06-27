@@ -9,8 +9,8 @@ enclosure: >-
 pullquote: The search for homes is starting earlier and earlier.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/wengerd-youtube-3-2.jpg
+use_video_image: true
+video_alternate_image: /uploads/wengerd-youtube-3-2.jpg
 youtube_code: U7C3VpSkHoE
 ---
 

@@ -14,8 +14,8 @@ enclosure: >-
 pullquote: Our goal is to help you sell in a way that best suits your needs.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_video_image: true
+video_alternate_image:
 youtube_code: kj0zmeG9pBY
 ---
 

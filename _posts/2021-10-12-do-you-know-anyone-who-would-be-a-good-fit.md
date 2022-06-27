@@ -10,8 +10,8 @@ enclosure: >-
 pullquote: Tech-savvy handymen are a huge plus.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/amy-wengerd-yt-3.jpg
+use_video_image: true
+video_alternate_image: /uploads/amy-wengerd-yt-3.jpg
 youtube_code: 0z6-1XME8x8
 ---
 {% include youtube.html %}

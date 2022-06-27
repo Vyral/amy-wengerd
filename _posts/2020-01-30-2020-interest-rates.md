@@ -9,8 +9,8 @@ enclosure: >-
 pullquote: Analysts are saying interest rates could drop as low as 3.4%!
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/wengerd-youtube-4-1.jpg
+use_video_image: true
+video_alternate_image: /uploads/wengerd-youtube-4-1.jpg
 youtube_code: MlZPl7CsR98
 ---
 

@@ -13,8 +13,8 @@ pullquote: >-
   our buyers and sellers based on the numbers for that particular week.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_video_image: true
+video_alternate_image:
 youtube_code: 6XiZGjMFP9Y
 ---
 

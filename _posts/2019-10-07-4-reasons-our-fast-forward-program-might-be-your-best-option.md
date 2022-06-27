@@ -12,8 +12,8 @@ pullquote: >-
   and investors to achieve success in any market.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/wengerd-youtube-3-1.jpg
+use_video_image: true
+video_alternate_image: /uploads/wengerd-youtube-3-1.jpg
 youtube_code: fTkbZjz6l8w
 ---
 

@@ -10,8 +10,8 @@ enclosure: >-
 pullquote: 'The expenses, stress, and hassle of making a double move aren’t fun.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/5-13---amy-wengerd---yt.jpg
+use_video_image: true
+video_alternate_image: /uploads/5-13---amy-wengerd---yt.jpg
 youtube_code: 7TvrY19PBn8
 ---
 {% include youtube.html %}

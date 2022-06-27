@@ -11,8 +11,8 @@ enclosure: >-
 pullquote: It is the little things that make the biggest differences for homeowners.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/wengerds-youtube.jpg
+use_video_image: true
+video_alternate_image: /uploads/wengerds-youtube.jpg
 youtube_code: jtzO-FvCp1I
 ---
 

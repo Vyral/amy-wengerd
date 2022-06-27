@@ -9,8 +9,8 @@ enclosure: >-
 pullquote: Put us to work for you!
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/wengerd-youtube-coming-soon-program.jpg
+use_video_image: true
+video_alternate_image: /uploads/wengerd-youtube-coming-soon-program.jpg
 youtube_code: _VDg9LIbSVY
 ---
 

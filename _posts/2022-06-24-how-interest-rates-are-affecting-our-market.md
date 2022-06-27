@@ -10,11 +10,11 @@ enclosure:
 pullquote: 'This more balanced market is exactly what we needed. '
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/amy-wengerd-yt-10.jpg
-youtube_code: wiWRpBYubV0
+use_video_image: false
+video_alternate_image: /uploads/amy-wengerd-yt-10.jpg
+vimeo_code: 723514420
 ---
-{% include youtube.html %}
+{% include vimeo.html %}
 
 {% include excerpt.html %}
 

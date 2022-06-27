@@ -11,8 +11,8 @@ enclosure: >-
 pullquote: This market isn’t the same environment that led up to the 2007 crash.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/amy-wengerd-yt.jpg
+use_video_image: true
+video_alternate_image: /uploads/amy-wengerd-yt.jpg
 youtube_code: kYX28HOlS08
 ---
 {% include youtube.html %}

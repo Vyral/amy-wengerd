@@ -11,8 +11,8 @@ pullquote: >-
   be happy with it when you move in and for years to come.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_video_image: true
+video_alternate_image:
 youtube_code: uuE_IJeKqZM
 ---
 {% include youtube.html %}

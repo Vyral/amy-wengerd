@@ -11,7 +11,7 @@ enclosure: >-
 pullquote: It prevents the buyer from being caught off guard by any major issues.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_video_image: true
 youtube_alternate_image: /uploads/amy-wengerd-yt-8.jpg
 youtube_code: CyyYgVYAXpE
 ---

@@ -11,8 +11,8 @@ enclosure: >-
 pullquote: 'No matter what anyone else says, trust your gut.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/wengerd-youtube-1.jpg
+use_video_image: true
+video_alternate_image: /uploads/wengerd-youtube-1.jpg
 youtube_code: EL1aTl4PsJ0
 ---
 

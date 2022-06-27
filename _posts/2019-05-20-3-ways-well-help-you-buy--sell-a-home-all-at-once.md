@@ -13,8 +13,8 @@ pullquote: >-
   extract and use as a down payment on your new home.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_video_image: true
+video_alternate_image:
 youtube_code: VrPJf8SAP-c
 ---
 

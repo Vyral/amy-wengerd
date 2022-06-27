@@ -12,8 +12,8 @@ pullquote: >-
   don’t have to worry about paying a commission.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/wengerd-youtube-5-1.jpg
+use_video_image: true
+video_alternate_image: /uploads/wengerd-youtube-5-1.jpg
 youtube_code: jftxkc2cBbE
 ---
 

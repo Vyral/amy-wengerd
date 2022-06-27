@@ -8,11 +8,10 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+video_alternate_image:
+vimeo_code:
 ---
-{% include youtube.html %}
+{% include vimeo.html %}
 
 {% include excerpt.html %}
 

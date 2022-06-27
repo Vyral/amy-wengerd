@@ -12,8 +12,8 @@ enclosure: >-
 pullquote: A finished basement holds endless opportunity.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_video_image: true
+video_alternate_image:
 youtube_code: b-wFExlt2a4
 ---
 

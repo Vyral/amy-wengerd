@@ -11,8 +11,8 @@ enclosure: >-
 pullquote: This is yet another reason to have competent representation.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/1-21---amy-wengerd---yt.jpg
+use_video_image: true
+video_alternate_image: /uploads/1-21---amy-wengerd---yt.jpg
 youtube_code: PF42qQRUf2c
 ---
 

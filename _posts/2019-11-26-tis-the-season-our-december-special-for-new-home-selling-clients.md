@@ -12,8 +12,8 @@ pullquote: >-
   $425-value
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/wengerd-youtube-7.jpg
+use_video_image: true
+video_alternate_image: /uploads/wengerd-youtube-7.jpg
 youtube_code: l-5NQypiPcE
 ---
 

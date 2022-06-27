@@ -11,8 +11,8 @@ pullquote: >-
   in the year.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_video_image: true
+video_alternate_image:
 youtube_code: 4eK8nenZ8w4
 ---
 {% include youtube.html %}

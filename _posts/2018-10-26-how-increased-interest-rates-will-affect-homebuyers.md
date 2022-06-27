@@ -13,8 +13,8 @@ enclosure: >-
 pullquote: 'If you’re considering purchasing a home in the near future, we need to talk.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_video_image: true
+video_alternate_image:
 youtube_code: GFj7ijZsRNg
 ---
 

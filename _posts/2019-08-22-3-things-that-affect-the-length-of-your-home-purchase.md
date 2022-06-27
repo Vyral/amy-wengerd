@@ -11,8 +11,8 @@ enclosure: >-
 pullquote: It could take five months or more from start to finish.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/wengerd-youtube-3.jpg
+use_video_image: true
+video_alternate_image: /uploads/wengerd-youtube-3.jpg
 youtube_code: DxE2Djp5cA4
 ---
 

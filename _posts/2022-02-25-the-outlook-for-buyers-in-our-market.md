@@ -11,7 +11,7 @@ enclosure: >-
 pullquote: 'My advice is to find a home soon and get locked in. '
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_video_image: true
 youtube_alternate_image: /uploads/amy-wengerd-yt-7.jpg
 youtube_code: 5eP2LSbnGlE
 ---

@@ -11,8 +11,8 @@ enclosure: >-
 pullquote: You’re going to move anyway, so you might as well pack up a bit early.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/amy-wengerd-yt-5.jpg
+use_video_image: true
+video_alternate_image: /uploads/amy-wengerd-yt-5.jpg
 youtube_code: s5TkChMQG0Q
 ---
 {% include youtube.html %}
