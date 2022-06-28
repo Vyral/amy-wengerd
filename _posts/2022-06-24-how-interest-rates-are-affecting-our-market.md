@@ -7,7 +7,7 @@ tags:
   - Real Estate
 excerpt: Why rising interest rates are a good thing for our real estate market.
 enclosure:
-pullquote: 'This more balanced market is exactly what we needed. '
+pullquote: This more balanced market is exactly what we needed.
 enclosure_type: video/mp4
 enclosure_time:
 use_video_image: false
