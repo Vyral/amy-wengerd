@@ -18,9 +18,9 @@ vimeo_code: 723514420
 
 {% include excerpt.html %}
 
-Interest rates, interest rates, interest rates. It’s all we hear in the news, but we shouldn’t be surprised. Rising interest rates will affect our market, but that is actually a good thing. Why is that?
+Interest rates, interest rates, interest rates. It’s all we hear about in the news, but we shouldn’t be surprised. Rising interest rates will affect our market, but that is actually a good thing.&nbsp;
 
-If you’ve been watching these videos for a while, you’ll know that this is what we wanted to happen. **We wanted the market to stabilize and become more balanced for buyers and sellers.** Interest rates had to rise for this to happen, and of course, they’ll help lower inflation too.
+If you’ve been following my blog for a while, you’ll know that this is what we wanted to happen. **We wanted the market to stabilize and become more balanced for buyers and sellers.** Interest rates had to rise for this to happen, and of course, they’ll help lower inflation too.
 
 Right now, Interest rates are above 6%, but keep in mind that the average historical rate on 30-year fixed mortgages is around 8%. Our current rate is still well below the average, but the increase has caused some buyers to drop out of that market. That’s okay\! **Some of these buyers probably shouldn’t have been in the market.** They were stretching too much and liquidating investments to the point where we didn’t think buying was in their best interest.&nbsp;
 
