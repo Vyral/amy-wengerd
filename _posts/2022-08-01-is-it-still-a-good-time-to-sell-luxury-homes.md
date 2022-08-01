@@ -9,8 +9,8 @@ enclosure:
 pullquote: Now is still a great time to sell your luxury home in our local market.
 enclosure_type: video/mp4
 enclosure_time:
-video_alternate_image:
-vimeo_code:
+video_alternate_image: /uploads/amy-wengerd-email.jpg
+vimeo_code: '735596955'
 ---
 {% include vimeo.html %}
 
