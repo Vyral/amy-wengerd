@@ -18,7 +18,7 @@ vimeo_code: '735596955'
 
 If you’ve been watching the headlines to see what’s happening on a national scale, understand that our local market has never followed the same trends as national real estate. Today I’ll share the latest trends in the upper price ranges of Stark and Summit Counties to keep you updated on what’s happening in our local market.
 
-In 2021, the average price per square foot for homes above $500,000 in Stark County was $192. In 2022, that increased to $207.The average sales price in total is currently around $200,000.
+In 2021, the average price per square foot for homes above $500,000 in Stark County was $192. In 2022, that increased to $207. The average sales price in total is currently around $200,000.
 
 **Homes are selling quicker than they were last year**, as well. The average days on market increased from 97 days to just 39 this year, meaning that today’s homeowners are selling 58% faster than in 2021. Sellers also received 97% of their asking prices in 2021 compared to 99.7% this year. This shows that sellers are getting almost full price when they sell, which is great news.
 
