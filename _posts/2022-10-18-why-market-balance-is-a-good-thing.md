@@ -13,7 +13,7 @@ pullquote: 'Buyers can do inspections once again. '
 enclosure_type: video/mp4
 enclosure_time:
 video_alternate_image: /uploads/amy-wengerd-yt-12.jpg
-vimeo_code: '761569210'
+vimeo_code: '762366368'
 ---
 {% include vimeo.html %}
 
