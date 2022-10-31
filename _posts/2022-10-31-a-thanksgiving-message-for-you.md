@@ -23,4 +23,4 @@ I can’t wait to see all of our present and past clients at our upcoming pie gi
 
 Thank you again from the bottom of our hearts, from me, my family, and all of our agents here. Have an exceptional holiday season\!
 
-**[RSVP here for the pie giveaway\!](https://docs.google.com/forms/d/e/1FAIpQLSe5NJFw5_vqktxWzF8ueFaZ5T54IU7_nakGIjkmNsxPA6lGUw/viewform){: target="_blank" rel="noopener"}**
+<u><strong><a target="_blank" rel="noopener" href="https://docs.google.com/forms/d/e/1FAIpQLSe5NJFw5_vqktxWzF8ueFaZ5T54IU7_nakGIjkmNsxPA6lGUw/viewform">RSVP here for the pie giveaway!</a></strong></u>
