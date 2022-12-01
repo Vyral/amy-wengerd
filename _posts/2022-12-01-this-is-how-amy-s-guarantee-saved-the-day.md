@@ -9,8 +9,8 @@ tags:
 excerpt: Amy’s Guarantee is a fantastic way to save a client’s home sale.
 enclosure:
 pullquote: >-
-  This is one way we work creatively and closely with our clients to help them
-  when they need it.
+  We work creatively and closely with our clients to help them when they need
+  it.
 enclosure_type: video/mp4
 enclosure_time:
 video_alternate_image: /uploads/amy-wengerd-yt-15.jpg
