@@ -16,7 +16,7 @@ vimeo_code: '793458484'
 
 {% include excerpt.html %}
 
-As you can imagine, we have a lot of contacts with different contractors and businesses throughout our local area that help us take care of our clients. I think it’s really cool that when we work with our clients to buy or sell homes, we also provide a ton of value to other local businesses as well.
+As you can imagine, we have a lot of contacts with different contractors and businesses throughout our local area that help us take care of our clients. I think it’s really cool that when we work with our clients to buy or sell homes, we also provide a ton of value to other local businesses.
 
 **This is all to say that if you ever need a recommendation, please reach out;** we have you covered. I can almost guarantee you that no matter what you need, we've got a great person to connect you with. The best part is that if you mention our name, you might get a discount!
 
