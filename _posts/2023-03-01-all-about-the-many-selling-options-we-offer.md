@@ -10,7 +10,7 @@ pullquote: We have this tricky situation all figured out for you.
 enclosure_type: video/mp4
 enclosure_time:
 video_alternate_image: /uploads/2.jpg
-vimeo_code: 802802831/22124ed802
+vimeo_code: '802802831'
 ---
 {% include vimeo.html %}
 
