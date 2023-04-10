@@ -12,7 +12,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 video_alternate_image: /uploads/2-48.jpg
-vimeo_code: 815331693/c851336960
+vimeo_code: c851336960
 ---
 {% include vimeo.html %}
 
