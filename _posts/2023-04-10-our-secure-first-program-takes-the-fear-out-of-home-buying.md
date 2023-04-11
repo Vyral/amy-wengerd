@@ -4,7 +4,7 @@ title: Our Secure First Program Takes the Fear Out of Home Buying
 date: 2023-04-10 07:00:00
 tags:
   - Home Buyer Tips
-excerpt: Our new contingency program takes the stress out of buying a house.
+excerpt: Our Secure First program takes the stress out of buying a house.
 enclosure:
 pullquote: >-
   With Secure First, you can avoid the stress and uncertainty that often comes
