@@ -11,7 +11,7 @@ pullquote: >-
   with buying and selling a home.
 enclosure_type: video/mp4
 enclosure_time:
-video_alternate_image: /uploads/2-48.jpg
+video_alternate_image: /uploads/2-1.jpg
 vimeo_code: '815331693'
 ---
 {% include vimeo.html %}
