@@ -18,7 +18,7 @@ vimeo_code: '819545289'
 
 Today, I’m here with a very important message for homebuyers! In today's low-inventory market, multiple offers on homes are common. The problem is that some buyers assume that someone else will offer more, so they’ll choose not to compete, which means they’ve missed their opportunity.&nbsp;
 
-**When 30 people come to see a home, oftentimes only three people will make an offer, which is very doable for buyers to compete with!** Therefore, it's important to try to work with your agent to create the strongest offer possible. Even if you don't win, you can feel confident knowing you made a strong effort.
+**When 30 people come to see a home, oftentimes, only three people will make an offer, which is very doable for buyers to compete with!** Therefore, it's important to try to work with your agent to create the strongest offer possible. Even if you don't win, you can feel confident knowing you made a strong effort.
 
 Many buyers are hesitant to compete, and they assume that the home will sell for a higher price than they are willing to pay because of the competition. However, this is not always the case. **Homes are selling to those who make a strong, clean offer that the homeowner feels comfortable with.** By assuming that someone else will offer more, you risk losing out on a potential opportunity.
 
