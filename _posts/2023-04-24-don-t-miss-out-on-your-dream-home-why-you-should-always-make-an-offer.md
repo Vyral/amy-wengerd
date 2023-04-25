@@ -9,7 +9,7 @@ enclosure:
 pullquote: Don't be afraid to make an offer and secure your dream home.
 enclosure_type: video/mp4
 enclosure_time:
-video_alternate_image: /uploads/2-85.jpg
+video_alternate_image: /uploads/2-2.jpg
 vimeo_code: '819545289'
 ---
 {% include vimeo.html %}
