@@ -9,7 +9,7 @@ enclosure:
 pullquote: The beauty of this program is you get to secure your new home first.
 enclosure_type: video/mp4
 enclosure_time:
-video_alternate_image: /uploads/2-2023-05-22t221333-881.jpg
+video_alternate_image: /uploads/2-3.jpg
 vimeo_code: '827646053'
 ---
 {% include vimeo.html %}
