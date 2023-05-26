@@ -17,14 +17,13 @@ use_video_image: true
 video_alternate_image: /uploads/wengerd-youtube-1-1.jpg
 youtube_code: 5L2F59qs36M
 ---
-
 {% include youtube.html %}
 
 **&nbsp; Looking to sell a home? [Click Here](https://www.epropertywatch.com/homeownerPage/x4w8Ojzn){: target="_blank"}**
 
-**&nbsp; Looking to buy a home? [Click Here](https://www.amysguarantee.com/search){: target="_blank"}**
+**&nbsp; Looking to buy a home? [Click Here](https://amysguarantee.com/properties/sale){: target="_blank"}**
 
-Is the Fast Forward program the best option for your own selling goals? It just might be if: &nbsp;As many of you know, The Amy Wengerd Group unveiled our Fast Forward program for home sellers earlier this year. We’re excited to report that it’s been a resounding success as we’ve been able to serve so many of our clients with it already. In fact, we just closed on a client’s house today\!&nbsp;
+Is the Fast Forward program the best option for your own selling goals? It just might be if: &nbsp;As many of you know, The Amy Wengerd Group unveiled our Fast Forward program for home sellers earlier this year. We’re excited to report that it’s been a resounding success as we’ve been able to serve so many of our clients with it already. In fact, we just closed on a client’s house today!&nbsp;
 
 **1\. You want to skip the traditional sale process.&nbsp;**
 
@@ -40,4 +39,4 @@ If you’re interested in pursuing one of these selling options, we’d be happy
 
 If you’d like to sell your home the traditional way, we can help with that too and we promise equally amazing results.&nbsp;
 
-If you have any questions or would like more information, please reach out to us today so we can find out which method is most appropriate for your situation. We look forward to hearing from you\!&nbsp;<br>&nbsp;
+If you have any questions or would like more information, please reach out to us today so we can find out which method is most appropriate for your situation. We look forward to hearing from you!&nbsp;<br>
