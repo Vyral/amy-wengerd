@@ -11,16 +11,15 @@ pullquote: >-
   generates.
 enclosure_type: video/mp4
 enclosure_time:
-use_video_image: true
+use_video_image: false
 video_alternate_image: /uploads/8-11---amy-wengerd---yt.jpg
 youtube_code: aOUX3WQBYA8
 ---
-
 <center>{% include youtube.html %}</center>
 
-<center>Here are four tips that will strengthen your home&rsquo;s curb appeal.&nbsp;</center>
+<center>Here are four tips that will strengthen your home’s curb appeal.&nbsp;</center>
 
-&nbsp;
+
 
 Many home sellers spend so much time prepping the inside of their home for sale that they forget how important curb appeal is to potential homebuyers. Not only does the exterior of your home give buyers a hint of the interior’s condition, but it also has a direct impact on the number of showings your home generates.&nbsp;
 
@@ -31,7 +30,7 @@ That being said, here are four ways you can improve your curb appeal and help ge
 3. **Add flowers.** These add color and character to your house, and it’s another way to show buyers you care about your home and how it looks.&nbsp;
 4. **Lay down a doormat.** Did you know that when a buyer visits your home, they spend approximately 30 seconds to a full minute on the front porch while their Realtor is unlocking and opening the door? Can you guess what they’re doing during that time? That’s right—they’re checking out the space, including the front door and doormat, and seeing whether any maintenance is needed.&nbsp;
 
-If you list with us, we’ll give you a free doormat\! In fact, we can help you with all of these tasks. We have you covered no matter what. We’re here to help with the little things and big decisions.&nbsp;
+If you list with us, we’ll give you a free doormat! In fact, we can help you with all of these tasks. We have you covered no matter what. We’re here to help with the little things and big decisions.&nbsp;
 
 {% include pullquote.html %}
 
