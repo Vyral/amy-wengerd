@@ -38,8 +38,8 @@ client:
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://www.epropertywatch.com/homeownerPage/x4w8Ojzn
-  second_CTA_text: Home Search
-  second_CTA_URL: https://amysguarantee.com/home-search/listings
+  second_CTA_text: Featured Properties
+  second_CTA_URL: https://amysguarantee.com/properties/sale
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
@@ -51,10 +51,9 @@ sidebar_CTA:
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
-    CTA_text2: Search the entire MLS for your -- MARKET -- home.
-    CTA_link_text2: Search the MLS
-    CTA_url2: >-
-      https://www.amysguarantee.com/search#?q_limit=36&q_prioritize=agents.0.id=436224|office.id=9303&mlsId=449&status=1|3&q_sort=featured&q_offset=0
+    CTA_text2: Check out our current Featured Properties
+    CTA_link_text2: Featured Properties
+    CTA_url2: https://amysguarantee.com/properties/sale
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -128,7 +127,7 @@ buttons:
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: rgba(0, 0, 0, 0)
   button_text_color: '#bda287'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: rgba(0, 0, 0, 0)
