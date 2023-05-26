@@ -27,8 +27,8 @@ client:
     but that the process is enjoyable along the way!
   market: Canton
   brand: The Amy Wengerd Group
-  brokerage: exp Realty
-  address: 5553 Whipple Ave NW Suite 4 North Canton, Oh 44720
+  brokerage: eXp Realty
+  address: 4678 MUNSON ST., NW CANTON, OH 44718
   phone: 330-681-6090
   phone_type:
   phone2:
@@ -106,12 +106,12 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 60
   hero_text: Canton/Akron Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#bda287'
-  theme_color: '#000'
+  theme_color: '#000000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -121,7 +121,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: white
+  shadow_color: '#ffffff'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
