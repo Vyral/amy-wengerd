@@ -24,9 +24,9 @@ What is going on in today’s market when compared to this time last year? It’
 
 0:00 — Introduction
 
-0:37 — Stark County statistics: First half of 2022 vs the first half of 2023
+0:37 — Stark County statistics: First half of 2022 versus the first half of 2023
 
-2:05 — Summit County statistics: First half of 2022 vs the first half of 2023
+2:05 — Summit County statistics: First half of 2022 versus the first half of 2023
 
 3:38 — What does it all mean?
 
