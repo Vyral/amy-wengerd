@@ -28,4 +28,4 @@ While there are rare cases where banks waive them, **most of the time, appraisal
 
 In our current market, some buyers may pay more than the appraised value willingly. However, when structuring offers, we include language to allow contract voiding or renegotiation if the home doesn't appraise for the sale price.
 
-So, think of the bank as a prudent, wealthy uncle you want to borrow money from. They want to ensure the investment is sound and take a peek at the property to feel confident about it. If you have any questions or need guidance, don't hesitate to reach out at 330-681-6090.. We're here to assist you throughout the process and answer all your inquiries.
+So, think of the bank as a prudent, wealthy uncle you want to borrow money from. They want to ensure the investment is sound and take a peek at the property to feel confident about it. If you have any questions or need guidance, don't hesitate to reach out at (330) 681-6090. We're here to assist you throughout the process and answer all your inquiries.
