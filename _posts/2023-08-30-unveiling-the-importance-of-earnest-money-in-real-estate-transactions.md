@@ -4,7 +4,7 @@ title: Unveiling the Importance of Earnest Money in Real Estate Transactions
 date: 2023-08-30 07:00:00
 tags:
   - Home Buyer Tips
-excerpt: Understanding the crucial role of Earnest money.
+excerpt: The critical role of earnest money in real estate transactions.
 enclosure:
 pullquote: Earnest money goes beyond a simple financial commitment.
 enclosure_type: video/mp4
