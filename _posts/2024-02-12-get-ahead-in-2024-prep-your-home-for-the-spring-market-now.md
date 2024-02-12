@@ -5,7 +5,7 @@ date: 2024-02-12 07:00:00
 tags:
   - Real Estate
   - Home Seller Tips
-excerpt: Transform the Winter downtime into home sale readiness for your 2024.
+excerpt: Transform the winter downtime into home sale readiness for your 2024.
 enclosure:
 pullquote: Consider this your friendly nudge in February 2024.
 enclosure_type: video/mp4
