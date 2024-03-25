@@ -27,4 +27,4 @@ Then, there's a negotiable period where the seller gives you time to secure a co
 
 Depending on the terms of your contingency, you may have the first right of refusal. This means the seller has to come back to you and give you the option to remove your contingency or proceed with the new buyer.
 
-**If this sounds complicated, don't worry; we can guide you through all the options.** That's why we developed our Secure First program, exclusive to the Amy Wingard Group. With Secure First, you don't have to make a contingent offer. If you're in this situation or anticipate being in it, call or email us for a free consultation. We look forward to hearing from you!
+**If this sounds complicated, don't worry; we can guide you through all the options.** That's why we developed our Secure First program, exclusive to the Amy Wengerd Group. With Secure First, you don't have to make a contingent offer. If you're in this situation or anticipate being in it, call or email us for a free consultation. We look forward to hearing from you!
