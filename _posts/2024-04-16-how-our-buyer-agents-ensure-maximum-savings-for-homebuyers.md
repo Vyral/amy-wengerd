@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Are you ready to maximize your buying power in today’s market?
 enclosure:
-pullquote: 'Our buyer agents specialize in saving you money. '
+pullquote: Our buyer agents specialize in saving you money.
 enclosure_type: video/mp4
 enclosure_time:
 video_alternate_image: /uploads/2-17.jpg
