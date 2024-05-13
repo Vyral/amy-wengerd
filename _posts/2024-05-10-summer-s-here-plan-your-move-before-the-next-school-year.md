@@ -11,7 +11,7 @@ pullquote: >-
   your home and securing the best deal on your purchase.
 enclosure_type: video/mp4
 enclosure_time:
-video_alternate_image: /uploads/2-54.jpg
+video_alternate_image: /uploads/2-6.jpg
 vimeo_code: '945010296'
 ---
 {% include vimeo.html %}
