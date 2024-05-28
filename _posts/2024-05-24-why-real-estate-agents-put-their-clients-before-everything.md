@@ -11,7 +11,7 @@ pullquote: >-
   expertise, and that we'll be compensated once we close the deal.
 enclosure_type: video/mp4
 enclosure_time:
-video_alternate_image: /uploads/2-91.jpg
+video_alternate_image: /uploads/2-7.jpg
 vimeo_code: '949920121'
 ---
 {% include vimeo.html %}
