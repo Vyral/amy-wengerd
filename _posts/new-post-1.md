@@ -34,3 +34,5 @@ This is a challenging situation to be in. Imagine finding the perfect house for 
 The odds that the home seller will take your home sale contingency offer, especially if they are in a multiple-offer situation, are very slim. It is frustrating to experience that. If you are stuck in this situation, the Secure First Program can help.
 
 Many of our clients have already taken advantage of this program, and now there are more funds available. Reach out to me directly by email at [***Amy@soldbywengerd.com***](mailto:Amy@soldbywengerd.com) to see if you qualify for it. You can also visit our website,[***<u>AmysGuarante.com</u>***](http://amysguarante.com/). If this makes sense for you, I’d love to talk with you and make your real estate dreams a reality.
+
+&nbsp;
