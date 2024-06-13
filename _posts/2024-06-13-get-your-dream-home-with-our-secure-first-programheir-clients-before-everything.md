@@ -21,7 +21,7 @@ enclosure_time:
 video_alternate_image: /uploads/amy-wengerd-email-thumbnail-template-1-4.jpg
 vimeo_code: BErXFlqPWB0
 ---
-{% include vimeo.html %}
+{%include youtube.html%}
 
 {% include excerpt.html %}
 
