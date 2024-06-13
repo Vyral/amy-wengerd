@@ -18,8 +18,9 @@ pullquote: >-
   before buying a new one. 
 enclosure_type: video/mp4
 enclosure_time:
-video_alternate_image: /uploads/amy-wengerd-email-thumbnail-template-1-4.jpg
-vimeo_code: BErXFlqPWB0
+use_youtube_image: true
+youtube_alternate_image: /uploads/yt-updated.jpg
+youtube_code: BErXFlqPWB0
 ---
 {%include youtube.html%}
 
